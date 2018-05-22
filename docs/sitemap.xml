@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/01-introduction/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/03-demo/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-demo/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/03-demo/02-defining-basic/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-demo/02-defining-basic/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/03-demo/03-gitlab-repo/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-demo/03-gitlab-repo/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/01-introduction/02-meet-hugo/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/02-meet-hugo/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/01-introduction/03-why-hugo/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/03-why-hugo/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/01-introduction/04-for-you/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/04-for-you/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/01-introduction/05-jekyll-hexo/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/05-jekyll-hexo/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/01-introduction/07-course-prerequisites/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/07-course-prerequisites/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/tags/</loc>
     <priority>0</priority>
   </url>
   
