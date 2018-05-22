@@ -1,5 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
+publishDir = "docs"
 
 title = "Migrating WordPress to Hugo: Course Reference"
 theme = "kraiklyn"

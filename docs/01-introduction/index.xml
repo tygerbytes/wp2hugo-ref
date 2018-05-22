@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>01 Introduction on Migrating WordPress to Hugo: Course Reference</title>
+    <link>http://example.org/01-introduction/</link>
+    <description>Recent content in 01 Introduction on Migrating WordPress to Hugo: Course Reference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/01-introduction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1-2 Meet Hugo</title>
+      <link>http://example.org/01-introduction/02-meet-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/01-introduction/02-meet-hugo/</guid>
+      <description>Official Hugo Site: https://gohugo.io</description>
+    </item>
+    
+    <item>
+      <title>1-3 Why Hugo?</title>
+      <link>http://example.org/01-introduction/03-why-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/01-introduction/03-why-hugo/</guid>
+      <description>Google uses site speed in web search ranking: https://webmasters.googleblog.com/2010/04/using-site-speed-in-web-search-ranking.html
+WP Engine costs: https://wpengine.com/plans/</description>
+    </item>
+    
+    <item>
+      <title>1-4 Is Hugo right for you?</title>
+      <link>http://example.org/01-introduction/04-for-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/01-introduction/04-for-you/</guid>
+      <description>Disqus: https://disqus.com/
+Shopify: https://www.shopify.com/</description>
+    </item>
+    
+    <item>
+      <title>1-5 Hugo vs Jekyll vs Hexo</title>
+      <link>http://example.org/01-introduction/05-jekyll-hexo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/01-introduction/05-jekyll-hexo/</guid>
+      <description>Jekyll: https://jekyllrb.com/
+Hexo: https://hexo.io/</description>
+    </item>
+    
+    <item>
+      <title>1-7 Course prerequisites</title>
+      <link>http://example.org/01-introduction/07-course-prerequisites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/01-introduction/07-course-prerequisites/</guid>
+      <description>Windows PowerShell basics: https://docs.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/windows-powershell-basics?view=powershell-6
+Mac/Linux Bash scripting basics: https://ryanstutorials.net/bash-scripting-tutorial/</description>
+    </item>
+    
+  </channel>
+</rss>
