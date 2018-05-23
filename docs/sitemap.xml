@@ -15,7 +15,31 @@
   </url>
   
   <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/03-demo/03-gitlab-repo/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-demo/03-generate-hugo-site/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-demo/04-choosing-config-theme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-demo/05-gitlab-repo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-demo/06-git-config/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-demo/07-migrating-individual-posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-demo/08-migrating-about-page/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-demo/09-deploy-gitlab-pages/</loc>
   </url>
   
   <url>

@@ -1,6 +1,6 @@
 ---
 title: "3-2 Defining basic"
-anchor: "defining_basic"
+anchor: "demo_defining_basic"
 weight: 35
 ---
 

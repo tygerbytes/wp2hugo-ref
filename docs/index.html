@@ -58,9 +58,21 @@
         <ul>
             
             
-                <li><a href="#defining_basic">3-2 Defining basic</a></li>
+                <li><a href="#demo_defining_basic">3-2 Defining basic</a></li>
             
-                <li><a href="#new_gitlab_repo">3-3 Creating a new GitLab repository</a></li>
+                <li><a href="#demo_generate_new_site">3-3 Generate a new hugo site</a></li>
+            
+                <li><a href="#demo_choose_config_theme">3-4 Choosing and configuring a theme</a></li>
+            
+                <li><a href="#demo_new_gitlab_repo">3-5 Creating a new GitLab repository</a></li>
+            
+                <li><a href="#demo_configure_project_git">3-6 Configure project to use Git</a></li>
+            
+                <li><a href="#demo_migrate_a_post">3-7 Migrate a post</a></li>
+            
+                <li><a href="#demo_migrate_about">3-8 Migrate the about page</a></li>
+            
+                <li><a href="#demo_deploy_gitlab_pages">3-9 Deploy site to GitLab Pages</a></li>
             
         </ul>
     </li>
@@ -100,7 +112,7 @@
     </div>
 
     <div class="version">
-            generated on May 22, 2018
+            generated on May 23, 2018
     </div>
 </div>
 
@@ -199,9 +211,9 @@
 
     
             
-                <section class="page" id="defining_basic">
+                <section class="page" id="demo_defining_basic">
     <h1>
-        <a href="#defining_basic">3-2 Defining basic</a>
+        <a href="#demo_defining_basic">3-2 Defining basic</a>
     </h1>
     <div class="content">
         <p>tygertec blog: <a href="https://tygertec.com">https://tygertec.com</a></p>
@@ -210,13 +222,142 @@
 </section>
 
             
-                <section class="page" id="new_gitlab_repo">
+                <section class="page" id="demo_generate_new_site">
     <h1>
-        <a href="#new_gitlab_repo">3-3 Creating a new GitLab repository</a>
+        <a href="#demo_generate_new_site">3-3 Generate a new hugo site</a>
+    </h1>
+    <div class="content">
+        <p>From a terminal window (PowerShell, Bash)</p>
+
+<pre><code>hugo new site yoursitename
+</code></pre>
+
+<p>Poke around afterward:</p>
+
+<pre><code>cd yoursitename
+ls 
+cat config.toml
+</code></pre>
+
+    </div>
+</section>
+
+            
+                <section class="page" id="demo_choose_config_theme">
+    <h1>
+        <a href="#demo_choose_config_theme">3-4 Choosing and configuring a theme</a>
+    </h1>
+    <div class="content">
+        
+
+<p>Themes site: <a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a></p>
+
+<p>Theme I used for the demo : <a href="https://github.com/coderzh/hugo-pacman-theme">https://github.com/coderzh/hugo-pacman-theme</a></p>
+
+<h3 id="cloning-the-theme-from-github">Cloning the theme from GitHub</h3>
+
+<p>From terminal:</p>
+
+<pre><code>cd yoursitename
+git clone https://github.com/coderzh/hugo-pacman-theme.git themes\hugo-pacman-theme\
+rm -recurse -force themes\hugo-pacman-theme\.git
+
+# Or on Mac/Linux
+rm -rf themes\hugo-pacman-theme\.git
+</code></pre>
+
+<p>Then configure <code>config.toml</code> to make the theme happy, as seen in the video</p>
+
+    </div>
+</section>
+
+            
+                <section class="page" id="demo_new_gitlab_repo">
+    <h1>
+        <a href="#demo_new_gitlab_repo">3-5 Creating a new GitLab repository</a>
     </h1>
     <div class="content">
         <p>GitLab: <a href="https://gitlab.com">https://gitlab.com</a></p>
 
+    </div>
+</section>
+
+            
+                <section class="page" id="demo_configure_project_git">
+    <h1>
+        <a href="#demo_configure_project_git">3-6 Configure project to use Git</a>
+    </h1>
+    <div class="content">
+        <p>Configure global Git user settings</p>
+
+<pre><code>git config --global user.name “Your name&quot; 
+git config --global user.email “email@domain.com&quot;
+</code></pre>
+
+<p>Initialize git and upload your files</p>
+
+<pre><code>git init
+git remote add origin git@gitlab.com:&lt;YOUR-USER-NAME&gt;/&lt;YOUR-REPO&gt;.git 
+git add . git commit -m &quot;Initial commit“
+git push -u origin master
+</code></pre>
+
+<p>Configure SSH keys
+* <a href="https://gitlab.com/profile/keys">https://gitlab.com/profile/keys</a>
+* <a href="https://gitlab.com/help/ssh/README#generating-a-new-ssh-key-pair">https://gitlab.com/help/ssh/README#generating-a-new-ssh-key-pair</a></p>
+
+    </div>
+</section>
+
+            
+                <section class="page" id="demo_migrate_a_post">
+    <h1>
+        <a href="#demo_migrate_a_post">3-7 Migrate a post</a>
+    </h1>
+    <div class="content">
+        <p>Create a new post:</p>
+
+<pre><code>hugo new post/&lt;NAME-OF-POST&gt;.md
+</code></pre>
+
+<p>Push to changes to GitLab:</p>
+
+<pre><code>git add .
+git commit -m &quot;Migrate posts from WP&quot;
+git push
+</code></pre>
+
+    </div>
+</section>
+
+            
+                <section class="page" id="demo_migrate_about">
+    <h1>
+        <a href="#demo_migrate_about">3-8 Migrate the about page</a>
+    </h1>
+    <div class="content">
+        <p>Create a new about section:</p>
+
+<pre><code>hugo new about/_index.md
+</code></pre>
+
+<p>Push to changes to GitLab:</p>
+
+<pre><code>git add .
+git commit -m &quot;Migrate about page&quot;
+git push
+</code></pre>
+
+    </div>
+</section>
+
+            
+                <section class="page" id="demo_deploy_gitlab_pages">
+    <h1>
+        <a href="#demo_deploy_gitlab_pages">3-9 Deploy site to GitLab Pages</a>
+    </h1>
+    <div class="content">
+        
     </div>
 </section>
 
