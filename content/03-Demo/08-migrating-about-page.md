@@ -6,7 +6,7 @@ weight: 35
 
 Create a new about section:
 ```
-hugo new about/_index.md
+hugo new about/index.md
 ```
 
 Push to changes to GitLab:
