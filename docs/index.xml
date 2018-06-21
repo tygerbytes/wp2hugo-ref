@@ -80,7 +80,7 @@ git add . git commit -m &amp;quot;Migrate posts from WP&amp;quot; git push  </de
       
       <guid>https://tygerbytes.github.io/wp2hugoref/03-demo/08-migrating-about-page/</guid>
       <description>Create a new about section:
-hugo new about/_index.md  Push to changes to GitLab:
+hugo new about/index.md  Push to changes to GitLab:
 git add . git commit -m &amp;quot;Migrate about page&amp;quot; git push  </description>
     </item>
     
@@ -90,7 +90,15 @@ git add . git commit -m &amp;quot;Migrate about page&amp;quot; git push  </descr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/03-demo/09-deploy-gitlab-pages/</guid>
-      <description></description>
+      <description>pull in changes made in Gitlab:
+git pull  &amp;ldquo;stash&amp;rdquo; unsaved changes before running git pull:
+git stash git pull git stash pop  Install Node.js from https://nodejs.org/en/download/current/
+Installing http-server:
+npm install http-server -g  Running web server from ./public:
+hugo http-server  Delete the public directory:
+Windows PowerShell:
+rm -recurse -force public  Mac/Linux:
+rm -rf ./public  </description>
     </item>
     
     <item>

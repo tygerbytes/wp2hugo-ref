@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
 <head>
-  <meta name="generator" content="Hugo 0.40.3" />
+  <meta name="generator" content="Hugo 0.42.1" />
 
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -112,7 +112,7 @@
     </div>
 
     <div class="version">
-            generated on May 23, 2018
+            generated on Jun 21, 2018
     </div>
 </div>
 
@@ -338,7 +338,7 @@ git push
     <div class="content">
         <p>Create a new about section:</p>
 
-<pre><code>hugo new about/_index.md
+<pre><code>hugo new about/index.md
 </code></pre>
 
 <p>Push to changes to GitLab:</p>
@@ -357,7 +357,43 @@ git push
         <a href="#demo_deploy_gitlab_pages">3-9 Deploy site to GitLab Pages</a>
     </h1>
     <div class="content">
-        
+        <p>pull in changes made in Gitlab:</p>
+
+<pre><code>git pull
+</code></pre>
+
+<p>&ldquo;stash&rdquo; unsaved changes before running <code>git pull</code>:</p>
+
+<pre><code>git stash
+git pull
+git stash pop
+</code></pre>
+
+<p>Install Node.js from <a href="https://nodejs.org/en/download/current/">https://nodejs.org/en/download/current/</a></p>
+
+<p>Installing <code>http-server</code>:</p>
+
+<pre><code>npm install http-server -g
+</code></pre>
+
+<p>Running web server from <code>./public</code>:</p>
+
+<pre><code>hugo
+http-server
+</code></pre>
+
+<p>Delete the public directory:</p>
+
+<p>Windows PowerShell:</p>
+
+<pre><code>rm -recurse -force public
+</code></pre>
+
+<p>Mac/Linux:</p>
+
+<pre><code>rm -rf ./public
+</code></pre>
+
     </div>
 </section>
 
