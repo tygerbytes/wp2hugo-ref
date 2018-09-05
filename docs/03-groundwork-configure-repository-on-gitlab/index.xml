@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Section 3: Groundwork: Configure repository on GitLab on Migrating WordPress to Hugo: Course Reference</title>
+    <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/</link>
+    <description>Recent content in Section 3: Groundwork: Configure repository on GitLab on Migrating WordPress to Hugo: Course Reference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Sep 2018 21:11:47 -0400</lastBuildDate>
+    
+	<atom:link href="https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>17 Meet Gitlab</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/17-meet-gitlab/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/17-meet-gitlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18 Create a Gitlab Account</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/18-create-a-gitlab-account/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/18-create-a-gitlab-account/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>19 Create a New Private Repo on Gitlab</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/19-create-a-new-private-repo-on-gitlab/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/19-create-a-new-private-repo-on-gitlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>20 Setup Your Ssh Keys</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/20-setup-your-ssh-keys/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/20-setup-your-ssh-keys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>21 Clone the Repo on Your Machine</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/21-clone-the-repo-on-your-machine/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/21-clone-the-repo-on-your-machine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

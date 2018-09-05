@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Section 2: Set up your tools on Migrating WordPress to Hugo: Course Reference</title>
+    <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/</link>
+    <description>Recent content in Section 2: Set up your tools on Migrating WordPress to Hugo: Course Reference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Sep 2018 21:11:40 -0400</lastBuildDate>
+    
+	<atom:link href="https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>07 Install Chocolatey Package Manager (Windows Only)</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/07-install-chocolatey-package-manager-windows-only/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:40 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/07-install-chocolatey-package-manager-windows-only/</guid>
+      <description>Site: https://chocolatey.org/install
+Make sure it works: choco
+*Don&amp;rsquo;t forget to run choco commands as an administrator.</description>
+    </item>
+    
+    <item>
+      <title>08 Install Hugo</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-hugo/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-hugo/</guid>
+      <description>https://gohugo.io/getting-started/installing
+ Windows: choco install hugo macOS: brew install hugo Ubuntu Linux: sudo apt-get install hugo  See the docs above for more complex installs.</description>
+    </item>
+    
+    <item>
+      <title>09 Install Visual Studio Code and Extensions</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-visual-studio-code-and-extensions/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-visual-studio-code-and-extensions/</guid>
+      <description>https://code.visualstudio.com/
+ Windows: choco install visualstudiocode Alternate/Manual: https://code.visualstudio.com/download  Extensions:
+ Code Spell Checker Markdownlint EditorConfig for VS Code Better TOML  </description>
+    </item>
+    
+    <item>
+      <title>10 Installing Git</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/10-installing-git/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/10-installing-git/</guid>
+      <description>Windows: choco install git Windows (Manual): https://git-scm.com/downloads
+Mac: brew install git Manual: https://git-scm.com/download/mac
+Linux (Debian-based):
+sudo apt-get update sudo apt-get upgrade sudo apt-get install git Linux (Red Hat-based):
+sudo yum upgrade sudo yum install git</description>
+    </item>
+    
+    <item>
+      <title>11 Learning Git</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/11-learning-git/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/11-learning-git/</guid>
+      <description>GitLens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+Basic Git commands:
+ git status git add . git commit -m &amp;ldquo;some message&amp;rdquo; git clone git push git pull  Resources for learning Git: https://try.github.io/</description>
+    </item>
+    
+    <item>
+      <title>12 Install Posh Git (Windows, Optional)</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/12-install-posh-git-windows-optional/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/12-install-posh-git-windows-optional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>13 Install Nodejs</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/13-install-nodejs/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/13-install-nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>14 Install 7 Zip (Windows Only)</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/14-install-7-zip-windows-only/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/14-install-7-zip-windows-only/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

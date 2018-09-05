@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Section 6: Write a new post with Hugo on Migrating WordPress to Hugo: Course Reference</title>
+    <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/</link>
+    <description>Recent content in Section 6: Write a new post with Hugo on Migrating WordPress to Hugo: Course Reference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Sep 2018 21:11:50 -0400</lastBuildDate>
+    
+	<atom:link href="https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>40 Add a Picture With Figure</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/40-add-a-picture-with-figure/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/40-add-a-picture-with-figure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>41 Unleash Your Draft Post</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/41-unleash-your-draft-post/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/41-unleash-your-draft-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>42 Alternative Create a New Post as a Page Bundle</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/42-alternative-create-a-new-post-as-a-page-bundle/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/42-alternative-create-a-new-post-as-a-page-bundle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>37 Meet Markdown the Easiest Way to Format Text</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/37-meet-markdown-the-easiest-way-to-format-text/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/37-meet-markdown-the-easiest-way-to-format-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>38 Create a New Post With Hugo</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/38-create-a-new-post-with-hugo/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/38-create-a-new-post-with-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>39 Live Site Preview With the Hugo Server</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/39-live-site-preview-with-the-hugo-server/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/39-live-site-preview-with-the-hugo-server/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

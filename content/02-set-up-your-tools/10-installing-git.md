@@ -4,7 +4,7 @@ date: 2018-09-04T21:11:46-04:00
 publishdate: 2018-09-04T21:11:46-04:00
 anchor: 10-installing-git
 weight: 10
-draft: true
+draft: false
 ---
 
 Windows: `choco install git`

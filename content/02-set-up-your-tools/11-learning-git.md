@@ -4,7 +4,7 @@ date: 2018-09-04T21:11:46-04:00
 publishdate: 2018-09-04T21:11:46-04:00
 anchor: 11-learning-git
 weight: 11
-draft: true
+draft: false
 ---
 
 GitLens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens

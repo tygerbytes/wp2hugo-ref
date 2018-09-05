@@ -4,7 +4,7 @@ date: 2018-09-04T21:11:40-04:00
 publishdate: 2018-09-04T21:11:40-04:00
 anchor: 07-install-chocolatey-package-manager-windows-only
 weight: 7
-draft: true
+draft: false
 ---
 
 Site: https://chocolatey.org/install

@@ -4,7 +4,7 @@ date: 2018-09-04T21:11:46-04:00
 publishdate: 2018-09-04T21:11:46-04:00
 anchor: 09-install-visual-studio-code-and-extensions
 weight: 9
-draft: true
+draft: false
 ---
 
 https://code.visualstudio.com/

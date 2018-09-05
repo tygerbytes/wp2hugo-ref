@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Section 5: Choose and configure a theme on Migrating WordPress to Hugo: Course Reference</title>
+    <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/</link>
+    <description>Recent content in Section 5: Choose and configure a theme on Migrating WordPress to Hugo: Course Reference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Sep 2018 21:11:49 -0400</lastBuildDate>
+    
+	<atom:link href="https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>32 Install Your New Hugo Theme</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/32-install-your-new-hugo-theme/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/32-install-your-new-hugo-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>33 Configure the Theme Using the Configtoml File</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/33-configure-the-theme-using-the-configtoml-file/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/33-configure-the-theme-using-the-configtoml-file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>34 Discovering Front Matter</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/34-discovering-front-matter/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/34-discovering-front-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>30 Why Do I Need a New Theme</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/30-why-do-i-need-a-new-theme/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/30-why-do-i-need-a-new-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>31 Choosing a Hugo Theme</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/31-choosing-a-hugo-theme/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/31-choosing-a-hugo-theme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Section 7: Manually move posts and pages from WordPress to Hugo on Migrating WordPress to Hugo: Course Reference</title>
+    <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/</link>
+    <description>Recent content in Section 7: Manually move posts and pages from WordPress to Hugo on Migrating WordPress to Hugo: Course Reference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Sep 2018 21:11:51 -0400</lastBuildDate>
+    
+	<atom:link href="https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>48 Alternative Migrate Post Images as a Page Bundle</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/48-alternative-migrate-post-images-as-a-page-bundle/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/48-alternative-migrate-post-images-as-a-page-bundle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>49 Clean Up Your Markdown</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/49-clean-up-your-markdown/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/49-clean-up-your-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>50 Migrate the About Page</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/50-migrate-the-about-page/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/50-migrate-the-about-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>45 Migrate a Single Post</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/45-migrate-a-single-post/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/45-migrate-a-single-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>46 Preserve Your Post Metadata</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/46-preserve-your-post-metadata/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/46-preserve-your-post-metadata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>47 Migrate Post Images</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/47-migrate-post-images/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/47-migrate-post-images/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

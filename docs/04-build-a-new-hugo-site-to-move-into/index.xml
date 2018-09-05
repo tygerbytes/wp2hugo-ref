@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Section 4: Build a new Hugo site to move into on Migrating WordPress to Hugo: Course Reference</title>
+    <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/</link>
+    <description>Recent content in Section 4: Build a new Hugo site to move into on Migrating WordPress to Hugo: Course Reference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Sep 2018 21:11:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>24 Create a New Hugo Site With &#34;hugo new site&#34;</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/24-create-a-new-hugo-site-with-hugo-new-site/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/24-create-a-new-hugo-site-with-hugo-new-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>25 Baby Steps Save Your Work With &#34;git commit&#34;</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/25-baby-steps-save-your-work-with-git-commit/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/25-baby-steps-save-your-work-with-git-commit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>26 Add .editorconfig for consistent file formatting</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/26-add-editorconfig-for-consistent-file-formatting/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/26-add-editorconfig-for-consistent-file-formatting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>27 Gitignore Telling Files to Talk to the Hand</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/27-gitignore-telling-files-to-talk-to-the-hand/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/27-gitignore-telling-files-to-talk-to-the-hand/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,7 @@ date: 2018-09-04T21:11:46-04:00
 publishdate: 2018-09-04T21:11:46-04:00
 anchor: 08-install-hugo
 weight: 8
-draft: true
+draft: false
 ---
 
 https://gohugo.io/getting-started/installing
