@@ -30,5 +30,10 @@ weight = 10
 
 [[menu.shortcuts]]
 name = "tygertec.com"
-url = "https://tygertec.com"
+url = "https://www.tygertec.com"
+weight = 10
+
+[[menu.shortcuts]]
+name = "The Udemy Course: WP2Hugo"
+url = "https://www.udemy.com/wp-to-hugo/?couponCode=COURSEREFS19"
 weight = 10

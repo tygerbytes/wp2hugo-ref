@@ -1,7 +1,7 @@
 ---
-title: "01 Introduction"
-anchor: "01_Introduction"
-weight: 35
+title: "Section 1: Introduction"
+anchor: "01-introduction"
+weight: 10
 ---
 
 Course Introduction
