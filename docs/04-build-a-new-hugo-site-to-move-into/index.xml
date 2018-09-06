@@ -12,21 +12,21 @@
     
     
     <item>
-      <title>24 Create a New Hugo Site With &#34;hugo new site&#34;</title>
+      <title>24 Create a new Hugo site with &#34;hugo new site&#34;</title>
       <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/24-create-a-new-hugo-site-with-hugo-new-site/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/24-create-a-new-hugo-site-with-hugo-new-site/</guid>
-      <description></description>
+      <description>hugo new site sitename</description>
     </item>
     
     <item>
-      <title>25 Baby Steps Save Your Work With &#34;git commit&#34;</title>
+      <title>25 Baby Steps: Save your work with &#34;git commit&#34;</title>
       <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/25-baby-steps-save-your-work-with-git-commit/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/25-baby-steps-save-your-work-with-git-commit/</guid>
-      <description></description>
+      <description>git add . git commit -m &amp;#34;Add a message here&amp;#34; git push</description>
     </item>
     
     <item>
@@ -35,16 +35,16 @@
       <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/26-add-editorconfig-for-consistent-file-formatting/</guid>
-      <description></description>
+      <description>.editorconfig file (Same as that referenced under Tools): https://gist.github.com/tygerbytes/2773f928bb5202669e14210d2b79c488</description>
     </item>
     
     <item>
-      <title>27 Gitignore Telling Files to Talk to the Hand</title>
+      <title>27 Gitignore: Telling files to &#34;talk to the hand&#34;</title>
       <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/27-gitignore-telling-files-to-talk-to-the-hand/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/27-gitignore-telling-files-to-talk-to-the-hand/</guid>
-      <description></description>
+      <description>.gitignore file generator: https://www.gitignore.io/</description>
     </item>
     
   </channel>
