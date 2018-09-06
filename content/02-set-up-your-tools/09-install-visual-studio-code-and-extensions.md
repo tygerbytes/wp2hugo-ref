@@ -12,13 +12,13 @@ https://code.visualstudio.com/
 * Windows: `choco install visualstudiocode`
 * Alternate/Manual: https://code.visualstudio.com/download
 
-## Extensions
+### Extensions
 
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 * [Markdownlint](https://github.com/DavidAnson/vscode-markdownlint)
 * [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 
-### EditorConfig
+#### EditorConfig
 
 * [About EditorConfig](https://editorconfig.org/)
 * [EditorConfig extension for VS Code](https://github.com/editorconfig/editorconfig-vscode)

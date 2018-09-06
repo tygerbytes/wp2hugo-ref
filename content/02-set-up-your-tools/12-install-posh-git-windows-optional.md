@@ -13,6 +13,6 @@ Port to Bash: https://github.com/lyze/posh-git-sh
 
 GitKraken: https://www.gitkraken.com/
 
-## Installing on Windows
+### Installing on Windows
 
 `choco install poshgit`

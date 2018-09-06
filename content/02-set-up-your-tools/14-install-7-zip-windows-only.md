@@ -7,7 +7,7 @@ weight: 14
 draft: false
 ---
 
-## Windows
+### Windows
 
 ``` powershell
 choco install 7zip

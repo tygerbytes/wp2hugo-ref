@@ -7,7 +7,7 @@ weight: 13
 draft: false
 ---
 
-## Windows
+### Windows
 
 ```
 choco install nodejs

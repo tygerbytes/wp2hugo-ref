@@ -13,7 +13,7 @@ It's at https://github.com/tygerbytes/HugoMDL
 
 The SSH url is: https://github.com/tygerbytes/HugoMDL.git
 
-## Clone method
+### clone method
 
 `git clone --depth 1 https://github.com/tygerbytes/HugoMDL.git ./themes/HugoMDL`
 
@@ -23,7 +23,7 @@ Windows PowerShell: `rm --recurse --force .\themes\HugoMDL\.git`
 
 Mac/Linux: `rm -rf ./themes/HugoMDL/.git`
 
-## submodule method
+### submodule method
 
 `git submodule add https://github.com/tygerbytes/HugoMDL.git ./themes/HugoMDL`
 
