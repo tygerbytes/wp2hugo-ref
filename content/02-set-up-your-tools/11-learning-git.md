@@ -7,8 +7,6 @@ weight: 11
 draft: false
 ---
 
-GitLens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-
 Basic Git commands:
 
 * git status
@@ -18,4 +16,6 @@ Basic Git commands:
 * git push
 * git pull
 
-Resources for learning Git: https://try.github.io/
+Learning more about Git: https://try.github.io/
+
+Helpful VS Code extension, GitLens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens

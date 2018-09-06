@@ -7,13 +7,19 @@ weight: 10
 draft: false
 ---
 
-Windows: `choco install git`
-Windows (Manual): https://git-scm.com/downloads
+## Windows
 
-Mac: `brew install git`
+Using Chocolatey: `choco install git`
+
+Manual: https://git-scm.com/downloads
+
+## Mac
+
+Using Brew: `brew install git`
+
 Manual: https://git-scm.com/download/mac
 
-Linux (Debian-based):
+## Linux (Debian-based)
 
 ``` bash
 sudo apt-get update
@@ -21,7 +27,7 @@ sudo apt-get upgrade
 sudo apt-get install git
 ```
 
-Linux (Red Hat-based):
+## Linux (Red Hat-based)
 
 ``` bash
 sudo yum upgrade

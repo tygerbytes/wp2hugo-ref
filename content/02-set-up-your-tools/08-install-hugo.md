@@ -7,10 +7,8 @@ weight: 8
 draft: false
 ---
 
-https://gohugo.io/getting-started/installing
-
 * Windows: `choco install hugo`
 * macOS: `brew install hugo`
 * Ubuntu Linux: `sudo apt-get install hugo`
 
-See the docs above for more complex installs.
+More complex installs: https://gohugo.io/getting-started/installing

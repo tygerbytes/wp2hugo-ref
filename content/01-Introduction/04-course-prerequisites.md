@@ -1,5 +1,5 @@
 ---
-title: "04 Course Prerequisites"
+title: "04 Course prerequisites"
 date: 2018-09-04T21:11:45-04:00
 publishdate: 2018-09-04T21:11:45-04:00
 anchor: 04-course-prerequisites
