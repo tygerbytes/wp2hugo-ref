@@ -26,7 +26,7 @@
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/49-clean-up-your-markdown/</guid>
-      <description></description>
+      <description>Figure shortcode again: https://gohugo.io/content-management/shortcodes/#figure</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/50-migrate-the-about-page/</guid>
-      <description></description>
+      <description>hugo new about/index.md</description>
     </item>
     
     <item>

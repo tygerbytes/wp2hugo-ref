@@ -6,3 +6,5 @@ anchor: 49-clean-up-your-markdown
 weight: 40
 draft: false
 ---
+
+Figure shortcode again: https://gohugo.io/content-management/shortcodes/#figure

@@ -6,3 +6,5 @@ anchor: 57-configure-a-custom-domain-name
 weight: 40
 draft: false
 ---
+
+Google domains: https://domains.google

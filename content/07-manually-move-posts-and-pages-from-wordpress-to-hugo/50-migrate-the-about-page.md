@@ -6,3 +6,5 @@ anchor: 50-migrate-the-about-page
 weight: 40
 draft: false
 ---
+
+`hugo new about/index.md`

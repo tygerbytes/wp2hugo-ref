@@ -17,7 +17,7 @@
       <pubDate>Tue, 04 Sep 2018 21:11:52 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/56-my-site-has-no-style-troubleshoot-locally-with-http-server/</guid>
-      <description></description>
+      <description>install http-server: npm install http-server -g</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 04 Sep 2018 21:11:52 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/57-configure-a-custom-domain-name/</guid>
-      <description></description>
+      <description>Google domains: https://domains.google</description>
     </item>
     
     <item>
