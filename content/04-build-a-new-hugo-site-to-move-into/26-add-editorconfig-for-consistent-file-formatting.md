@@ -7,4 +7,9 @@ weight: 40
 draft: false
 ---
 
-.editorconfig file (Same as that referenced under Tools): https://gist.github.com/tygerbytes/2773f928bb5202669e14210d2b79c488
+### Sample `.editorconfig` file
+
+Yes, this is the same as the one referenced under Tools
+
+* Full: https://gist.github.com/tygerbytes/2773f928bb5202669e14210d2b79c488
+* Shortened: https://bit.ly/2Mh1LFy

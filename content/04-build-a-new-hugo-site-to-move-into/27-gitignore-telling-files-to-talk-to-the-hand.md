@@ -7,4 +7,4 @@ weight: 40
 draft: false
 ---
 
-.gitignore file generator: https://www.gitignore.io/
+`.gitignore` file generator: https://www.gitignore.io/

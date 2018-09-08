@@ -12,16 +12,16 @@
     
     
     <item>
-      <title>40 Add a Picture With Figure</title>
+      <title>40 Add a picture with {{ figure }}</title>
       <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/40-add-a-picture-with-figure/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/40-add-a-picture-with-figure/</guid>
-      <description></description>
+      <description>The figure shortcode: https://gohugo.io/content-management/shortcodes/#figure</description>
     </item>
     
     <item>
-      <title>41 Unleash Your Draft Post</title>
+      <title>41 Unleash your draft post</title>
       <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/41-unleash-your-draft-post/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
       
@@ -30,39 +30,41 @@
     </item>
     
     <item>
-      <title>42 Alternative Create a New Post as a Page Bundle</title>
+      <title>42 Alternative: Create a new post as a page bundle</title>
       <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/42-alternative-create-a-new-post-as-a-page-bundle/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/42-alternative-create-a-new-post-as-a-page-bundle/</guid>
-      <description></description>
+      <description>Create a post as a page bundle: hugo new post/some-post/index.md
+More information: https://gohugo.io/content-management/page-bundles/</description>
     </item>
     
     <item>
-      <title>37 Meet Markdown the Easiest Way to Format Text</title>
+      <title>37 Meet markdown - the easiest way to format text</title>
       <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/37-meet-markdown-the-easiest-way-to-format-text/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/37-meet-markdown-the-easiest-way-to-format-text/</guid>
-      <description></description>
+      <description>Essential markdown cheatsheet: https://www.tygertec.com/markdown-cheatsheet/</description>
     </item>
     
     <item>
-      <title>38 Create a New Post With Hugo</title>
+      <title>38 Create a new post with Hugo</title>
       <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/38-create-a-new-post-with-hugo/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/38-create-a-new-post-with-hugo/</guid>
-      <description></description>
+      <description>hugo new post/some-post.md</description>
     </item>
     
     <item>
-      <title>39 Live Site Preview With the Hugo Server</title>
+      <title>39 Live site preview with the Hugo server</title>
       <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/39-live-site-preview-with-the-hugo-server/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/39-live-site-preview-with-the-hugo-server/</guid>
-      <description></description>
+      <description>hugo server
+Include draft posts: hugo server -D</description>
     </item>
     
   </channel>

@@ -7,4 +7,6 @@ weight: 40
 draft: false
 ---
 
-https://themes.gohugo.io/
+Hugo "theme park": https://themes.gohugo.io/
+
+Google Lighthouse: https://developers.google.com/web/tools/lighthouse/

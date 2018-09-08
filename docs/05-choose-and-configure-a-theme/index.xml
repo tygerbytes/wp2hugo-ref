@@ -35,7 +35,10 @@ cat ./.gitignore</description>
       <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/33-configure-the-theme-using-the-configtoml-file/</guid>
-      <description></description>
+      <description>Running hugo server: hugo server
+Stopping the running server: Ctrl-C
+Force most web browser&amp;rsquo;s, including Google Chrome and Firefox, to do a hard refresh: Ctrl F5
+A hard refresh means that nothing is loaded from the local cache; a new request is sent to the webserver.</description>
     </item>
     
     <item>
@@ -62,7 +65,8 @@ cat ./.gitignore</description>
       <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/31-choosing-a-hugo-theme/</guid>
-      <description>https://themes.gohugo.io/</description>
+      <description>Hugo &amp;ldquo;theme park&amp;rdquo;: https://themes.gohugo.io/
+Google Lighthouse: https://developers.google.com/web/tools/lighthouse/</description>
     </item>
     
   </channel>

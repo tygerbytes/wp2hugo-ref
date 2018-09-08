@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
 <head>
-  <meta name="generator" content="Hugo 0.47.1" />
+  <meta name="generator" content="Hugo 0.48" />
 
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -154,17 +154,17 @@
         <ul>
             
             
-                <li><a href="#40-add-a-picture-with-figure">40 Add a Picture With Figure</a></li>
+                <li><a href="#40-add-a-picture-with-figure">40 Add a picture with {{ figure }}</a></li>
             
-                <li><a href="#41-unleash-your-draft-post">41 Unleash Your Draft Post</a></li>
+                <li><a href="#41-unleash-your-draft-post">41 Unleash your draft post</a></li>
             
-                <li><a href="#42-alternative-create-a-new-post-as-a-page-bundle">42 Alternative Create a New Post as a Page Bundle</a></li>
+                <li><a href="#42-alternative-create-a-new-post-as-a-page-bundle">42 Alternative: Create a new post as a page bundle</a></li>
             
-                <li><a href="#37-meet-markdown-the-easiest-way-to-format-text">37 Meet Markdown the Easiest Way to Format Text</a></li>
+                <li><a href="#37-meet-markdown-the-easiest-way-to-format-text">37 Meet markdown - the easiest way to format text</a></li>
             
-                <li><a href="#38-create-a-new-post-with-hugo">38 Create a New Post With Hugo</a></li>
+                <li><a href="#38-create-a-new-post-with-hugo">38 Create a new post with Hugo</a></li>
             
-                <li><a href="#39-live-site-preview-with-the-hugo-server">39 Live Site Preview With the Hugo Server</a></li>
+                <li><a href="#39-live-site-preview-with-the-hugo-server">39 Live site preview with the Hugo server</a></li>
             
         </ul>
     </li>
@@ -254,7 +254,7 @@
     </div>
 
     <div class="version">
-            generated on Sep 6, 2018
+            generated on Sep 7, 2018
     </div>
 </div>
 
@@ -655,7 +655,16 @@ git push</code></pre></div>
         <a href="#26-add-editorconfig-for-consistent-file-formatting">26 Add .editorconfig for consistent file formatting</a>
     </h1>
     <div class="content">
-        <p>.editorconfig file (Same as that referenced under Tools): <a href="https://gist.github.com/tygerbytes/2773f928bb5202669e14210d2b79c488">https://gist.github.com/tygerbytes/2773f928bb5202669e14210d2b79c488</a></p>
+        
+
+<h3 id="sample-editorconfig-file">Sample <code>.editorconfig</code> file</h3>
+
+<p>Yes, this is the same as the one referenced under Tools</p>
+
+<ul>
+<li>Full: <a href="https://gist.github.com/tygerbytes/2773f928bb5202669e14210d2b79c488">https://gist.github.com/tygerbytes/2773f928bb5202669e14210d2b79c488</a></li>
+<li>Shortened: <a href="https://bit.ly/2Mh1LFy">https://bit.ly/2Mh1LFy</a></li>
+</ul>
 
     </div>
 </section>
@@ -666,7 +675,7 @@ git push</code></pre></div>
         <a href="#27-gitignore-telling-files-to-talk-to-the-hand">27 Gitignore: Telling files to &#34;talk to the hand&#34;</a>
     </h1>
     <div class="content">
-        <p>.gitignore file generator: <a href="https://www.gitignore.io/">https://www.gitignore.io/</a></p>
+        <p><code>.gitignore</code> file generator: <a href="https://www.gitignore.io/">https://www.gitignore.io/</a></p>
 
     </div>
 </section>
@@ -728,7 +737,14 @@ git push</code></pre></div>
         <a href="#33-configure-the-theme-using-the-config-toml-file">33 Configure the theme using the `config.toml` File</a>
     </h1>
     <div class="content">
-        
+        <p>Running hugo server: <code>hugo server</code></p>
+
+<p>Stopping the running server: <code>Ctrl-C</code></p>
+
+<p>Force most web browser&rsquo;s, including Google Chrome and Firefox, to do a hard refresh: <code>Ctrl F5</code></p>
+
+<p><em>A hard refresh means that nothing is loaded from the local cache; a new request is sent to the webserver.</em></p>
+
     </div>
 </section>
 
@@ -758,7 +774,9 @@ git push</code></pre></div>
         <a href="#31-choosing-a-hugo-theme">31 Choosing a Hugo theme</a>
     </h1>
     <div class="content">
-        <p><a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a></p>
+        <p>Hugo &ldquo;theme park&rdquo;: <a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a></p>
+
+<p>Google Lighthouse: <a href="https://developers.google.com/web/tools/lighthouse/">https://developers.google.com/web/tools/lighthouse/</a></p>
 
     </div>
 </section>
@@ -782,17 +800,18 @@ git push</code></pre></div>
             
                 <section class="page" id="40-add-a-picture-with-figure">
     <h1>
-        <a href="#40-add-a-picture-with-figure">40 Add a Picture With Figure</a>
+        <a href="#40-add-a-picture-with-figure">40 Add a picture with {{ figure }}</a>
     </h1>
     <div class="content">
-        
+        <p>The figure shortcode: <a href="https://gohugo.io/content-management/shortcodes/#figure">https://gohugo.io/content-management/shortcodes/#figure</a></p>
+
     </div>
 </section>
 
             
                 <section class="page" id="41-unleash-your-draft-post">
     <h1>
-        <a href="#41-unleash-your-draft-post">41 Unleash Your Draft Post</a>
+        <a href="#41-unleash-your-draft-post">41 Unleash your draft post</a>
     </h1>
     <div class="content">
         
@@ -802,40 +821,48 @@ git push</code></pre></div>
             
                 <section class="page" id="42-alternative-create-a-new-post-as-a-page-bundle">
     <h1>
-        <a href="#42-alternative-create-a-new-post-as-a-page-bundle">42 Alternative Create a New Post as a Page Bundle</a>
+        <a href="#42-alternative-create-a-new-post-as-a-page-bundle">42 Alternative: Create a new post as a page bundle</a>
     </h1>
     <div class="content">
-        
+        <p>Create a post as a page bundle: <code>hugo new post/some-post/index.md</code></p>
+
+<p>More information: <a href="https://gohugo.io/content-management/page-bundles/">https://gohugo.io/content-management/page-bundles/</a></p>
+
     </div>
 </section>
 
             
                 <section class="page" id="37-meet-markdown-the-easiest-way-to-format-text">
     <h1>
-        <a href="#37-meet-markdown-the-easiest-way-to-format-text">37 Meet Markdown the Easiest Way to Format Text</a>
+        <a href="#37-meet-markdown-the-easiest-way-to-format-text">37 Meet markdown - the easiest way to format text</a>
     </h1>
     <div class="content">
-        
+        <p>Essential markdown cheatsheet: <a href="https://www.tygertec.com/markdown-cheatsheet/">https://www.tygertec.com/markdown-cheatsheet/</a></p>
+
     </div>
 </section>
 
             
                 <section class="page" id="38-create-a-new-post-with-hugo">
     <h1>
-        <a href="#38-create-a-new-post-with-hugo">38 Create a New Post With Hugo</a>
+        <a href="#38-create-a-new-post-with-hugo">38 Create a new post with Hugo</a>
     </h1>
     <div class="content">
-        
+        <p><code>hugo new post/some-post.md</code></p>
+
     </div>
 </section>
 
             
                 <section class="page" id="39-live-site-preview-with-the-hugo-server">
     <h1>
-        <a href="#39-live-site-preview-with-the-hugo-server">39 Live Site Preview With the Hugo Server</a>
+        <a href="#39-live-site-preview-with-the-hugo-server">39 Live site preview with the Hugo server</a>
     </h1>
     <div class="content">
-        
+        <p><code>hugo server</code></p>
+
+<p>Include draft posts: <code>hugo server -D</code></p>
+
     </div>
 </section>
 

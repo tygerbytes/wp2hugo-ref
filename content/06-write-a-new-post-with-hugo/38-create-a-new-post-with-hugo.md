@@ -1,8 +1,10 @@
 ---
-title: "38 Create a New Post With Hugo"
+title: "38 Create a new post with Hugo"
 date: 2018-09-04T21:11:49-04:00
 publishdate: 2018-09-04T21:11:49-04:00
 anchor: 38-create-a-new-post-with-hugo
 weight: 40
 draft: false
 ---
+
+`hugo new post/some-post.md`
