@@ -1,0 +1,21 @@
+.sidebar ul li {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.section-header li {
+  /* padding-left: 0; */
+  font-weight: bold;
+}
+
+.section-list ul {
+  padding-top: .5rem;
+  padding-bottom: 1rem;
+}
+
+.section-list ul li {
+  list-style: square;
+  padding-left: 0;
+  margin-left: 1.75rem;
+  font-weight: normal;
+}

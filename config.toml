@@ -11,7 +11,7 @@ pygmentsStyle = "monokailight"
 [params]
 externalTitle = "Helpful Links"
 sidebarColor = "default"
-customCss = []
+customCss = ["css/custom.css"]
 
 [[menu.shortcuts]]
 name = "wp2hugo-ref on GitHub"

@@ -1,0 +1,7 @@
+<ul class="section-header">
+    {{ with .Sections }}
+        {{ range .ByWeight }}
+            {{ partial "menu_page_list.html" . }}
+        {{ end }}
+    {{ end }}
+</ul>

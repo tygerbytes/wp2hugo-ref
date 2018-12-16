@@ -11,7 +11,7 @@
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
   <link rel="stylesheet" href="https://tygerbytes.github.io/wp2hugoref/css/styles.css">
-  
+  <link rel="stylesheet" href="https://tygerbytes.github.io/wp2hugoref/css/custom.css">
   <link href="https://tygerbytes.github.io/wp2hugoref/index.xml" rel="alternate" type="application/rss+xml" title="Migrating WordPress to Hugo: Course Reference" />
 
 </head>
@@ -27,12 +27,12 @@
 
 
         <nav class="internal">
-            <ul>
+            <ul class="section-header">
     
         
             
     <li>
-        <a href="#00-migrating-wordpress-to-hugo-course-reference">Migrating WordPress to Hugo: Course Reference</a>
+        <a href="#migrating-wordpress-to-hugo-course-reference">Section 0: Get the course</a>
     </li>
 
 
@@ -41,16 +41,18 @@
             
     <li>
         <a href="#01-introduction">Section 1: Introduction</a>
-        <ul>
-            
-            
-                <li><a href="#hugo-the-origin-story">Hugo: the origin story</a></li>
-            
-                <li><a href="#is-hugo-the-best-fit-for-your-site">Is Hugo the best fit for your site?</a></li>
-            
-                <li><a href="#course-prerequisites">Course prerequisites</a></li>
-            
-        </ul>
+        <div class="section-list">
+          <ul>
+              
+              
+                  <li><a href="#hugo-the-origin-story">Hugo: the origin story</a></li>
+              
+                  <li><a href="#is-hugo-the-best-fit-for-your-site">Is Hugo the best fit for your site?</a></li>
+              
+                  <li><a href="#course-prerequisites">Course prerequisites</a></li>
+              
+          </ul>
+        </div>
     </li>
 
 
@@ -59,26 +61,28 @@
             
     <li>
         <a href="#02-set-up-your-tools">Section 2: Set up your tools</a>
-        <ul>
-            
-            
-                <li><a href="#install-chocolatey-package-manager-windows-only">Install Chocolatey package manager (Windows only)</a></li>
-            
-                <li><a href="#install-hugo">Install Hugo</a></li>
-            
-                <li><a href="#install-visual-studio-code-and-extensions">Install Visual Studio Code and extensions</a></li>
-            
-                <li><a href="#installing-git">Installing Git</a></li>
-            
-                <li><a href="#learning-git">Learning Git</a></li>
-            
-                <li><a href="#install-posh-git-windows-optional">Install posh-git (Windows, Optional)</a></li>
-            
-                <li><a href="#install-nodejs">Install Node.js</a></li>
-            
-                <li><a href="#install-7-zip-windows-only">Install 7-Zip (Windows only)</a></li>
-            
-        </ul>
+        <div class="section-list">
+          <ul>
+              
+              
+                  <li><a href="#install-chocolatey-package-manager-windows-only">Install Chocolatey package manager (Windows only)</a></li>
+              
+                  <li><a href="#install-hugo">Install Hugo</a></li>
+              
+                  <li><a href="#install-visual-studio-code-and-extensions">Install Visual Studio Code and extensions</a></li>
+              
+                  <li><a href="#installing-git">Installing Git</a></li>
+              
+                  <li><a href="#learning-git">Learning Git</a></li>
+              
+                  <li><a href="#install-posh-git-windows-optional">Install posh-git (Windows, Optional)</a></li>
+              
+                  <li><a href="#install-nodejs">Install Node.js</a></li>
+              
+                  <li><a href="#install-7-zip-windows-only">Install 7-Zip (Windows only)</a></li>
+              
+          </ul>
+        </div>
     </li>
 
 
@@ -87,22 +91,24 @@
             
     <li>
         <a href="#03-groundwork-configure-repository-on-gitlab">Section 3: Groundwork: Configure repository on GitLab</a>
-        <ul>
-            
-            
-                <li><a href="#meet-gitlab">Meet GitLab</a></li>
-            
-                <li><a href="#create-a-gitlab-account">Create a GitLab account</a></li>
-            
-                <li><a href="#create-a-new-private-repo-on-gitlab">Create a new private repo on GitLab</a></li>
-            
-                <li><a href="#setup-your-ssh-keys">Setup your SSH keys</a></li>
-            
-                <li><a href="#clone-the-repo-on-your-machine">Clone the repo on your machine</a></li>
-            
-                <li><a href="#sidebar-hey-what-about-github">Sidebar: Hey, what about GitHub?</a></li>
-            
-        </ul>
+        <div class="section-list">
+          <ul>
+              
+              
+                  <li><a href="#meet-gitlab">Meet GitLab</a></li>
+              
+                  <li><a href="#create-a-gitlab-account">Create a GitLab account</a></li>
+              
+                  <li><a href="#create-a-new-private-repo-on-gitlab">Create a new private repo on GitLab</a></li>
+              
+                  <li><a href="#setup-your-ssh-keys">Setup your SSH keys</a></li>
+              
+                  <li><a href="#clone-the-repo-on-your-machine">Clone the repo on your machine</a></li>
+              
+                  <li><a href="#sidebar-hey-what-about-github">Sidebar: Hey, what about GitHub?</a></li>
+              
+          </ul>
+        </div>
     </li>
 
 
@@ -111,18 +117,20 @@
             
     <li>
         <a href="#04-build-a-new-hugo-site-to-move-into">Section 4: Build a new Hugo site to move into</a>
-        <ul>
-            
-            
-                <li><a href="#create-a-new-hugo-site-with-hugo-new-site">Create a new Hugo site with &#34;hugo new site&#34;</a></li>
-            
-                <li><a href="#baby-steps-save-your-work-with-git-commit">Baby Steps: Save your work with &#34;git commit&#34;</a></li>
-            
-                <li><a href="#add-editorconfig-for-consistent-file-formatting">Add .editorconfig for consistent file formatting</a></li>
-            
-                <li><a href="#gitignore-telling-files-to-talk-to-the-hand">Gitignore: Telling files to &#34;talk to the hand&#34;</a></li>
-            
-        </ul>
+        <div class="section-list">
+          <ul>
+              
+              
+                  <li><a href="#create-a-new-hugo-site-with-hugo-new-site">Create a new Hugo site with &#34;hugo new site&#34;</a></li>
+              
+                  <li><a href="#baby-steps-save-your-work-with-git-commit">Baby Steps: Save your work with &#34;git commit&#34;</a></li>
+              
+                  <li><a href="#add-editorconfig-for-consistent-file-formatting">Add .editorconfig for consistent file formatting</a></li>
+              
+                  <li><a href="#gitignore-telling-files-to-talk-to-the-hand">Gitignore: Telling files to &#34;talk to the hand&#34;</a></li>
+              
+          </ul>
+        </div>
     </li>
 
 
@@ -131,20 +139,22 @@
             
     <li>
         <a href="#05-choose-and-configure-a-theme">Section 5: Choose and configure a theme</a>
-        <ul>
-            
-            
-                <li><a href="#why-do-i-need-a-new-theme">Why do I need a new theme</a></li>
-            
-                <li><a href="#choosing-a-hugo-theme">Choosing a Hugo theme</a></li>
-            
-                <li><a href="#install-your-new-hugo-theme">Install your new Hugo theme</a></li>
-            
-                <li><a href="#configure-the-theme-using-the-config-toml-file">Configure the theme using the `config.toml` File</a></li>
-            
-                <li><a href="#discovering-front-matter">Discovering Front Matter</a></li>
-            
-        </ul>
+        <div class="section-list">
+          <ul>
+              
+              
+                  <li><a href="#why-do-i-need-a-new-theme">Why do I need a new theme</a></li>
+              
+                  <li><a href="#choosing-a-hugo-theme">Choosing a Hugo theme</a></li>
+              
+                  <li><a href="#install-your-new-hugo-theme">Install your new Hugo theme</a></li>
+              
+                  <li><a href="#configure-the-theme-using-the-config-toml-file">Configure the theme using the `config.toml` File</a></li>
+              
+                  <li><a href="#discovering-front-matter">Discovering Front Matter</a></li>
+              
+          </ul>
+        </div>
     </li>
 
 
@@ -153,22 +163,24 @@
             
     <li>
         <a href="#06-write-a-new-post-with-hugo">Section 6: Write a new post with Hugo</a>
-        <ul>
-            
-            
-                <li><a href="#meet-markdown-the-easiest-way-to-format-text">Meet markdown - the easiest way to format text</a></li>
-            
-                <li><a href="#create-a-new-post-with-hugo">Create a new post with Hugo</a></li>
-            
-                <li><a href="#live-site-preview-with-the-hugo-server">Live site preview with the Hugo server</a></li>
-            
-                <li><a href="#add-a-picture-with-figure">Add a picture with {{ figure }}</a></li>
-            
-                <li><a href="#unleash-your-draft-post">Unleash your draft post</a></li>
-            
-                <li><a href="#alternative-create-a-new-post-as-a-page-bundle">Alternative: Create a new post as a page bundle</a></li>
-            
-        </ul>
+        <div class="section-list">
+          <ul>
+              
+              
+                  <li><a href="#meet-markdown-the-easiest-way-to-format-text">Meet markdown - the easiest way to format text</a></li>
+              
+                  <li><a href="#create-a-new-post-with-hugo">Create a new post with Hugo</a></li>
+              
+                  <li><a href="#live-site-preview-with-the-hugo-server">Live site preview with the Hugo server</a></li>
+              
+                  <li><a href="#add-a-picture-with-figure">Add a picture with {{ figure }}</a></li>
+              
+                  <li><a href="#unleash-your-draft-post">Unleash your draft post</a></li>
+              
+                  <li><a href="#alternative-create-a-new-post-as-a-page-bundle">Alternative: Create a new post as a page bundle</a></li>
+              
+          </ul>
+        </div>
     </li>
 
 
@@ -177,22 +189,24 @@
             
     <li>
         <a href="#01-manually-move-posts-and-pages-from-wordpress-to-hugo">Section 7: Manually move posts and pages from WordPress to Hugo</a>
-        <ul>
-            
-            
-                <li><a href="#migrate-a-single-post">Migrate a Single Post</a></li>
-            
-                <li><a href="#preserve-your-post-metadata">Preserve Your Post Metadata</a></li>
-            
-                <li><a href="#migrate-post-images">Migrate Post Images</a></li>
-            
-                <li><a href="#alternative-migrate-post-images-as-a-page-bundle">Alternative Migrate Post Images as a Page Bundle</a></li>
-            
-                <li><a href="#clean-up-your-markdown">Clean Up Your Markdown</a></li>
-            
-                <li><a href="#migrate-the-about-page">Migrate the About Page</a></li>
-            
-        </ul>
+        <div class="section-list">
+          <ul>
+              
+              
+                  <li><a href="#migrate-a-single-post">Migrate a Single Post</a></li>
+              
+                  <li><a href="#preserve-your-post-metadata">Preserve Your Post Metadata</a></li>
+              
+                  <li><a href="#migrate-post-images">Migrate Post Images</a></li>
+              
+                  <li><a href="#alternative-migrate-post-images-as-a-page-bundle">Alternative Migrate Post Images as a Page Bundle</a></li>
+              
+                  <li><a href="#clean-up-your-markdown">Clean Up Your Markdown</a></li>
+              
+                  <li><a href="#migrate-the-about-page">Migrate the About Page</a></li>
+              
+          </ul>
+        </div>
     </li>
 
 
@@ -201,20 +215,22 @@
             
     <li>
         <a href="#08-deploy-site-with-gitlab-pages">Section 8: Deploy Site with GitLab Pages</a>
-        <ul>
-            
-            
-                <li><a href="#config-cicd-gitlab-ciyml-file">Configure CI/CD with a .gitlab-ci.yml file</a></li>
-            
-                <li><a href="#watch-your-site-build-in-the-ci-pipeline">Watch Your Site Build in the Ci Pipeline</a></li>
-            
-                <li><a href="#viewing-your-deployed-site-404-not-found">Viewing Your Deployed Site 404 Not Found</a></li>
-            
-                <li><a href="#my-site-has-no-style-troubleshoot-locally-with-http-server">My Site Has No Style Troubleshoot Locally With Http Server</a></li>
-            
-                <li><a href="#configure-a-custom-domain-name">Configure a Custom Domain Name</a></li>
-            
-        </ul>
+        <div class="section-list">
+          <ul>
+              
+              
+                  <li><a href="#config-cicd-gitlab-ciyml-file">Configure CI/CD with a .gitlab-ci.yml file</a></li>
+              
+                  <li><a href="#watch-your-site-build-in-the-ci-pipeline">Watch Your Site Build in the Ci Pipeline</a></li>
+              
+                  <li><a href="#viewing-your-deployed-site-404-not-found">Viewing Your Deployed Site 404 Not Found</a></li>
+              
+                  <li><a href="#my-site-has-no-style-troubleshoot-locally-with-http-server">My Site Has No Style Troubleshoot Locally With Http Server</a></li>
+              
+                  <li><a href="#configure-a-custom-domain-name">Configure a Custom Domain Name</a></li>
+              
+          </ul>
+        </div>
     </li>
 
 
@@ -264,16 +280,14 @@
     
         
             
-    <section class="page" id="00-migrating-wordpress-to-hugo-course-reference">
+    <section class="page" id="migrating-wordpress-to-hugo-course-reference">
     <h1>
-        <a href="#00-migrating-wordpress-to-hugo-course-reference">Migrating WordPress to Hugo: Course Reference</a>
+        <a href="#migrating-wordpress-to-hugo-course-reference">Section 0: Get the course</a>
     </h1>
     <div class="content">
-        <p>Reference material for my premium course, <strong><a href="https://www.udemy.com/wp-to-hugo/?couponCode=COURSEREFS19">Migrating WordPress to Hugo, Step by Step</a></strong>.</p>
+        <p>Reference material for the course, <strong><a href="https://www.udemy.com/wp-to-hugo/?couponCode=COURSEREFS19">Migrating WordPress to Hugo, Step by Step</a></strong>.</p>
 
 <p><a href="https://www.udemy.com/wp-to-hugo/?couponCode=COURSEREFS19"><img src="images/course-image-wp-2-hugo.png" alt="" /></a></p>
-
-<p>*Click the image and get the course for a massive discount: <strong>$19.99</strong>. Normally $99.99.</p>
 
     </div>
 </section>
