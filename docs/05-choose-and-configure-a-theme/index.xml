@@ -6,17 +6,36 @@
     <description>Recent content in Section 5: Choose and configure a theme on Migrating WordPress to Hugo: Course Reference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Sep 2018 21:11:49 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 04 Sep 2018 21:11:48 -0400</lastBuildDate>
     
 	<atom:link href="https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>32 Install your new Hugo theme</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/32-install-your-new-hugo-theme/</link>
+      <title>Why do I need a new theme</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/02-why-do-i-need-a-new-theme/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/02-why-do-i-need-a-new-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choosing a Hugo theme</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/03-choosing-a-hugo-theme/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/03-choosing-a-hugo-theme/</guid>
+      <description>Hugo &amp;ldquo;theme park&amp;rdquo;: https://themes.gohugo.io/
+Google Lighthouse: https://developers.google.com/web/tools/lighthouse/</description>
+    </item>
+    
+    <item>
+      <title>Install your new Hugo theme</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/04-install-your-new-hugo-theme/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/32-install-your-new-hugo-theme/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/04-install-your-new-hugo-theme/</guid>
       <description>Note: If you&amp;rsquo;re following along with the course, clone my fork of the theme to avoid issues.
 It&amp;rsquo;s at https://github.com/tygerbytes/HugoMDL
 The SSH url is: https://github.com/tygerbytes/HugoMDL.git
@@ -30,11 +49,11 @@ cat ./.gitignore</description>
     </item>
     
     <item>
-      <title>33 Configure the theme using the `config.toml` File</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/33-configure-the-theme-using-the-configtoml-file/</link>
+      <title>Configure the theme using the `config.toml` File</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/05-configure-the-theme-using-the-configtoml-file/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/33-configure-the-theme-using-the-configtoml-file/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/05-configure-the-theme-using-the-configtoml-file/</guid>
       <description>Running hugo server: hugo server
 Stopping the running server: Ctrl-C
 Force most web browser&amp;rsquo;s, including Google Chrome and Firefox, to do a hard refresh: Ctrl F5
@@ -42,31 +61,12 @@ A hard refresh means that nothing is loaded from the local cache; a new request 
     </item>
     
     <item>
-      <title>34 Discovering Front Matter</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/34-discovering-front-matter/</link>
+      <title>Discovering Front Matter</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/06-discovering-front-matter/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/34-discovering-front-matter/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/06-discovering-front-matter/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>30 Why do I need a new theme</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/30-why-do-i-need-a-new-theme/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/30-why-do-i-need-a-new-theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>31 Choosing a Hugo theme</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/31-choosing-a-hugo-theme/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/31-choosing-a-hugo-theme/</guid>
-      <description>Hugo &amp;ldquo;theme park&amp;rdquo;: https://themes.gohugo.io/
-Google Lighthouse: https://developers.google.com/web/tools/lighthouse/</description>
     </item>
     
   </channel>

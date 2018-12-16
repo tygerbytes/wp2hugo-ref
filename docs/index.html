@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
 <head>
-  <meta name="generator" content="Hugo 0.48" />
+  <meta name="generator" content="Hugo 0.52" />
 
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -20,7 +20,7 @@
 <div class="sidebar sidebar-default">
     <div class="navigation">
         <div style="text-align: center">
-    <a href="https://tygertec.com"><img src="images/tywallscircle120.jpg" alt="Ty Walls" /></a>
+    <a href="https://tygertec.com"><img src="images/course-image-circle120.png" alt="Ty Walls" /></a>
 </div>
 
         <h1 class="site-title"><a href="https://tygerbytes.github.io/wp2hugoref/">Migrating WordPress to Hugo: Course Reference</a></h1>
@@ -44,11 +44,11 @@
         <ul>
             
             
-                <li><a href="#02-hugo-the-origin-story">02 Hugo: the origin story</a></li>
+                <li><a href="#hugo-the-origin-story">Hugo: the origin story</a></li>
             
-                <li><a href="#03-is-hugo-the-best-fit-for-your-site">03 Is Hugo the best fit for your site?</a></li>
+                <li><a href="#is-hugo-the-best-fit-for-your-site">Is Hugo the best fit for your site?</a></li>
             
-                <li><a href="#04-course-prerequisites">04 Course prerequisites</a></li>
+                <li><a href="#course-prerequisites">Course prerequisites</a></li>
             
         </ul>
     </li>
@@ -62,21 +62,21 @@
         <ul>
             
             
-                <li><a href="#07-install-chocolatey-package-manager-windows-only">07 Install Chocolatey package manager (Windows only)</a></li>
+                <li><a href="#install-chocolatey-package-manager-windows-only">Install Chocolatey package manager (Windows only)</a></li>
             
-                <li><a href="#08-install-hugo">08 Install Hugo</a></li>
+                <li><a href="#install-hugo">Install Hugo</a></li>
             
-                <li><a href="#09-install-visual-studio-code-and-extensions">09 Install Visual Studio Code and extensions</a></li>
+                <li><a href="#install-visual-studio-code-and-extensions">Install Visual Studio Code and extensions</a></li>
             
-                <li><a href="#10-installing-git">10 Installing Git</a></li>
+                <li><a href="#installing-git">Installing Git</a></li>
             
-                <li><a href="#11-learning-git">11 Learning Git</a></li>
+                <li><a href="#learning-git">Learning Git</a></li>
             
-                <li><a href="#12-install-posh-git-windows-optional">12 Install posh-git (Windows, Optional)</a></li>
+                <li><a href="#install-posh-git-windows-optional">Install posh-git (Windows, Optional)</a></li>
             
-                <li><a href="#13-install-nodejs">13 Install Node.js</a></li>
+                <li><a href="#install-nodejs">Install Node.js</a></li>
             
-                <li><a href="#14-install-7-zip-windows-only">14 Install 7-Zip (Windows only)</a></li>
+                <li><a href="#install-7-zip-windows-only">Install 7-Zip (Windows only)</a></li>
             
         </ul>
     </li>
@@ -90,15 +90,17 @@
         <ul>
             
             
-                <li><a href="#17-meet-gitlab">17 Meet GitLab</a></li>
+                <li><a href="#meet-gitlab">Meet GitLab</a></li>
             
-                <li><a href="#18-create-a-gitlab-account">18 Create a GitLab account</a></li>
+                <li><a href="#create-a-gitlab-account">Create a GitLab account</a></li>
             
-                <li><a href="#19-create-a-new-private-repo-on-gitlab">19 Create a new private repo on GitLab</a></li>
+                <li><a href="#create-a-new-private-repo-on-gitlab">Create a new private repo on GitLab</a></li>
             
-                <li><a href="#20-setup-your-ssh-keys">20 Setup your SSH keys</a></li>
+                <li><a href="#setup-your-ssh-keys">Setup your SSH keys</a></li>
             
-                <li><a href="#21-clone-the-repo-on-your-machine">21 Clone the repo on your machine</a></li>
+                <li><a href="#clone-the-repo-on-your-machine">Clone the repo on your machine</a></li>
+            
+                <li><a href="#sidebar-hey-what-about-github">Sidebar: Hey, what about GitHub?</a></li>
             
         </ul>
     </li>
@@ -112,13 +114,13 @@
         <ul>
             
             
-                <li><a href="#24-create-a-new-hugo-site-with-hugo-new-site">24 Create a new Hugo site with &#34;hugo new site&#34;</a></li>
+                <li><a href="#create-a-new-hugo-site-with-hugo-new-site">Create a new Hugo site with &#34;hugo new site&#34;</a></li>
             
-                <li><a href="#25-baby-steps-save-your-work-with-git-commit">25 Baby Steps: Save your work with &#34;git commit&#34;</a></li>
+                <li><a href="#baby-steps-save-your-work-with-git-commit">Baby Steps: Save your work with &#34;git commit&#34;</a></li>
             
-                <li><a href="#26-add-editorconfig-for-consistent-file-formatting">26 Add .editorconfig for consistent file formatting</a></li>
+                <li><a href="#add-editorconfig-for-consistent-file-formatting">Add .editorconfig for consistent file formatting</a></li>
             
-                <li><a href="#27-gitignore-telling-files-to-talk-to-the-hand">27 Gitignore: Telling files to &#34;talk to the hand&#34;</a></li>
+                <li><a href="#gitignore-telling-files-to-talk-to-the-hand">Gitignore: Telling files to &#34;talk to the hand&#34;</a></li>
             
         </ul>
     </li>
@@ -132,15 +134,15 @@
         <ul>
             
             
-                <li><a href="#32-install-your-new-hugo-theme">32 Install your new Hugo theme</a></li>
+                <li><a href="#why-do-i-need-a-new-theme">Why do I need a new theme</a></li>
             
-                <li><a href="#33-configure-the-theme-using-the-config-toml-file">33 Configure the theme using the `config.toml` File</a></li>
+                <li><a href="#choosing-a-hugo-theme">Choosing a Hugo theme</a></li>
             
-                <li><a href="#34-discovering-front-matter">34 Discovering Front Matter</a></li>
+                <li><a href="#install-your-new-hugo-theme">Install your new Hugo theme</a></li>
             
-                <li><a href="#30-why-do-i-need-a-new-theme">30 Why do I need a new theme</a></li>
+                <li><a href="#configure-the-theme-using-the-config-toml-file">Configure the theme using the `config.toml` File</a></li>
             
-                <li><a href="#31-choosing-a-hugo-theme">31 Choosing a Hugo theme</a></li>
+                <li><a href="#discovering-front-matter">Discovering Front Matter</a></li>
             
         </ul>
     </li>
@@ -154,17 +156,17 @@
         <ul>
             
             
-                <li><a href="#40-add-a-picture-with-figure">40 Add a picture with {{ figure }}</a></li>
+                <li><a href="#meet-markdown-the-easiest-way-to-format-text">Meet markdown - the easiest way to format text</a></li>
             
-                <li><a href="#41-unleash-your-draft-post">41 Unleash your draft post</a></li>
+                <li><a href="#create-a-new-post-with-hugo">Create a new post with Hugo</a></li>
             
-                <li><a href="#42-alternative-create-a-new-post-as-a-page-bundle">42 Alternative: Create a new post as a page bundle</a></li>
+                <li><a href="#live-site-preview-with-the-hugo-server">Live site preview with the Hugo server</a></li>
             
-                <li><a href="#37-meet-markdown-the-easiest-way-to-format-text">37 Meet markdown - the easiest way to format text</a></li>
+                <li><a href="#add-a-picture-with-figure">Add a picture with {{ figure }}</a></li>
             
-                <li><a href="#38-create-a-new-post-with-hugo">38 Create a new post with Hugo</a></li>
+                <li><a href="#unleash-your-draft-post">Unleash your draft post</a></li>
             
-                <li><a href="#39-live-site-preview-with-the-hugo-server">39 Live site preview with the Hugo server</a></li>
+                <li><a href="#alternative-create-a-new-post-as-a-page-bundle">Alternative: Create a new post as a page bundle</a></li>
             
         </ul>
     </li>
@@ -178,17 +180,17 @@
         <ul>
             
             
-                <li><a href="#48-alternative-migrate-post-images-as-a-page-bundle">48 Alternative Migrate Post Images as a Page Bundle</a></li>
+                <li><a href="#migrate-a-single-post">Migrate a Single Post</a></li>
             
-                <li><a href="#49-clean-up-your-markdown">49 Clean Up Your Markdown</a></li>
+                <li><a href="#preserve-your-post-metadata">Preserve Your Post Metadata</a></li>
             
-                <li><a href="#50-migrate-the-about-page">50 Migrate the About Page</a></li>
+                <li><a href="#migrate-post-images">Migrate Post Images</a></li>
             
-                <li><a href="#45-migrate-a-single-post">45 Migrate a Single Post</a></li>
+                <li><a href="#alternative-migrate-post-images-as-a-page-bundle">Alternative Migrate Post Images as a Page Bundle</a></li>
             
-                <li><a href="#46-preserve-your-post-metadata">46 Preserve Your Post Metadata</a></li>
+                <li><a href="#clean-up-your-markdown">Clean Up Your Markdown</a></li>
             
-                <li><a href="#47-migrate-post-images">47 Migrate Post Images</a></li>
+                <li><a href="#migrate-the-about-page">Migrate the About Page</a></li>
             
         </ul>
     </li>
@@ -202,15 +204,15 @@
         <ul>
             
             
-                <li><a href="#56-my-site-has-no-style-troubleshoot-locally-with-http-server">56 My Site Has No Style Troubleshoot Locally With Http Server</a></li>
+                <li><a href="#config-cicd-gitlab-ciyml-file">Configure CI/CD with a .gitlab-ci.yml file</a></li>
             
-                <li><a href="#57-configure-a-custom-domain-name">57 Configure a Custom Domain Name</a></li>
+                <li><a href="#watch-your-site-build-in-the-ci-pipeline">Watch Your Site Build in the Ci Pipeline</a></li>
             
-                <li><a href="#54-watch-your-site-build-in-the-ci-pipeline">54 Watch Your Site Build in the Ci Pipeline</a></li>
+                <li><a href="#viewing-your-deployed-site-404-not-found">Viewing Your Deployed Site 404 Not Found</a></li>
             
-                <li><a href="#55-viewing-your-deployed-site-404-not-found">55 Viewing Your Deployed Site 404 Not Found</a></li>
+                <li><a href="#my-site-has-no-style-troubleshoot-locally-with-http-server">My Site Has No Style Troubleshoot Locally With Http Server</a></li>
             
-                <li><a href="#cd-with-a-gitlab-ciyml-file">Cd With a Gitlab Ciyml File</a></li>
+                <li><a href="#configure-a-custom-domain-name">Configure a Custom Domain Name</a></li>
             
         </ul>
     </li>
@@ -254,7 +256,7 @@
     </div>
 
     <div class="version">
-            generated on Sep 8, 2018
+            generated on Dec 15, 2018
     </div>
 </div>
 
@@ -292,9 +294,9 @@
 
     
             
-                <section class="page" id="02-hugo-the-origin-story">
+                <section class="page" id="hugo-the-origin-story">
     <h1>
-        <a href="#02-hugo-the-origin-story">02 Hugo: the origin story</a>
+        <a href="#hugo-the-origin-story">Hugo: the origin story</a>
     </h1>
     <div class="content">
         <p>Official Hugo site: <a href="https://gohugo.io">https://gohugo.io</a></p>
@@ -311,9 +313,9 @@
 </section>
 
             
-                <section class="page" id="03-is-hugo-the-best-fit-for-your-site">
+                <section class="page" id="is-hugo-the-best-fit-for-your-site">
     <h1>
-        <a href="#03-is-hugo-the-best-fit-for-your-site">03 Is Hugo the best fit for your site?</a>
+        <a href="#is-hugo-the-best-fit-for-your-site">Is Hugo the best fit for your site?</a>
     </h1>
     <div class="content">
         <p>My Hugo-based blog: <a href="https://tygertec.com">https://tygertec.com</a></p>
@@ -326,9 +328,9 @@
 </section>
 
             
-                <section class="page" id="04-course-prerequisites">
+                <section class="page" id="course-prerequisites">
     <h1>
-        <a href="#04-course-prerequisites">04 Course prerequisites</a>
+        <a href="#course-prerequisites">Course prerequisites</a>
     </h1>
     <div class="content">
         <p>Windows PowerShell basics: <a href="https://docs.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/windows-powershell-basics?view=powershell-6">https://docs.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/windows-powershell-basics?view=powershell-6</a></p>
@@ -355,9 +357,9 @@
 
     
             
-                <section class="page" id="07-install-chocolatey-package-manager-windows-only">
+                <section class="page" id="install-chocolatey-package-manager-windows-only">
     <h1>
-        <a href="#07-install-chocolatey-package-manager-windows-only">07 Install Chocolatey package manager (Windows only)</a>
+        <a href="#install-chocolatey-package-manager-windows-only">Install Chocolatey package manager (Windows only)</a>
     </h1>
     <div class="content">
         <p>Site: <a href="https://chocolatey.org/install">https://chocolatey.org/install</a></p>
@@ -376,9 +378,9 @@
 </section>
 
             
-                <section class="page" id="08-install-hugo">
+                <section class="page" id="install-hugo">
     <h1>
-        <a href="#08-install-hugo">08 Install Hugo</a>
+        <a href="#install-hugo">Install Hugo</a>
     </h1>
     <div class="content">
         <ul>
@@ -393,9 +395,9 @@
 </section>
 
             
-                <section class="page" id="09-install-visual-studio-code-and-extensions">
+                <section class="page" id="install-visual-studio-code-and-extensions">
     <h1>
-        <a href="#09-install-visual-studio-code-and-extensions">09 Install Visual Studio Code and extensions</a>
+        <a href="#install-visual-studio-code-and-extensions">Install Visual Studio Code and extensions</a>
     </h1>
     <div class="content">
         
@@ -428,9 +430,9 @@
 </section>
 
             
-                <section class="page" id="10-installing-git">
+                <section class="page" id="installing-git">
     <h1>
-        <a href="#10-installing-git">10 Installing Git</a>
+        <a href="#installing-git">Installing Git</a>
     </h1>
     <div class="content">
         
@@ -458,9 +460,9 @@ sudo yum install git</code></pre></div>
 </section>
 
             
-                <section class="page" id="11-learning-git">
+                <section class="page" id="learning-git">
     <h1>
-        <a href="#11-learning-git">11 Learning Git</a>
+        <a href="#learning-git">Learning Git</a>
     </h1>
     <div class="content">
         <p>Basic Git commands:</p>
@@ -482,9 +484,9 @@ sudo yum install git</code></pre></div>
 </section>
 
             
-                <section class="page" id="12-install-posh-git-windows-optional">
+                <section class="page" id="install-posh-git-windows-optional">
     <h1>
-        <a href="#12-install-posh-git-windows-optional">12 Install posh-git (Windows, Optional)</a>
+        <a href="#install-posh-git-windows-optional">Install posh-git (Windows, Optional)</a>
     </h1>
     <div class="content">
         
@@ -503,9 +505,9 @@ sudo yum install git</code></pre></div>
 </section>
 
             
-                <section class="page" id="13-install-nodejs">
+                <section class="page" id="install-nodejs">
     <h1>
-        <a href="#13-install-nodejs">13 Install Node.js</a>
+        <a href="#install-nodejs">Install Node.js</a>
     </h1>
     <div class="content">
         
@@ -522,9 +524,9 @@ choco upgrade nodejs
 </section>
 
             
-                <section class="page" id="14-install-7-zip-windows-only">
+                <section class="page" id="install-7-zip-windows-only">
     <h1>
-        <a href="#14-install-7-zip-windows-only">14 Install 7-Zip (Windows only)</a>
+        <a href="#install-7-zip-windows-only">Install 7-Zip (Windows only)</a>
     </h1>
     <div class="content">
         
@@ -554,9 +556,9 @@ choco upgrade nodejs
 
     
             
-                <section class="page" id="17-meet-gitlab">
+                <section class="page" id="meet-gitlab">
     <h1>
-        <a href="#17-meet-gitlab">17 Meet GitLab</a>
+        <a href="#meet-gitlab">Meet GitLab</a>
     </h1>
     <div class="content">
         <p>GitLab: <a href="https://www.gitlab.com">https://www.gitlab.com</a></p>
@@ -565,9 +567,9 @@ choco upgrade nodejs
 </section>
 
             
-                <section class="page" id="18-create-a-gitlab-account">
+                <section class="page" id="create-a-gitlab-account">
     <h1>
-        <a href="#18-create-a-gitlab-account">18 Create a GitLab account</a>
+        <a href="#create-a-gitlab-account">Create a GitLab account</a>
     </h1>
     <div class="content">
         <p><a href="http://gitlab.com">http://gitlab.com</a></p>
@@ -576,9 +578,9 @@ choco upgrade nodejs
 </section>
 
             
-                <section class="page" id="19-create-a-new-private-repo-on-gitlab">
+                <section class="page" id="create-a-new-private-repo-on-gitlab">
     <h1>
-        <a href="#19-create-a-new-private-repo-on-gitlab">19 Create a new private repo on GitLab</a>
+        <a href="#create-a-new-private-repo-on-gitlab">Create a new private repo on GitLab</a>
     </h1>
     <div class="content">
         
@@ -586,9 +588,9 @@ choco upgrade nodejs
 </section>
 
             
-                <section class="page" id="20-setup-your-ssh-keys">
+                <section class="page" id="setup-your-ssh-keys">
     <h1>
-        <a href="#20-setup-your-ssh-keys">20 Setup your SSH keys</a>
+        <a href="#setup-your-ssh-keys">Setup your SSH keys</a>
     </h1>
     <div class="content">
         <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ssh-keygen -t rsa -C <span style="color:#d88200">&#34;your.email@example.com&#34;</span> -b <span style="color:#ae81ff">4096</span>
@@ -599,15 +601,33 @@ cat ~/.ssh/id_rsa.pub <span style="color:#111">|</span> clip</code></pre></div>
 </section>
 
             
-                <section class="page" id="21-clone-the-repo-on-your-machine">
+                <section class="page" id="clone-the-repo-on-your-machine">
     <h1>
-        <a href="#21-clone-the-repo-on-your-machine">21 Clone the repo on your machine</a>
+        <a href="#clone-the-repo-on-your-machine">Clone the repo on your machine</a>
     </h1>
     <div class="content">
         <p>Commands we used in the lecture:</p>
 <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">mkdir demo
 <span style="color:#111">cd</span> demo
 git clone git@gitlab.com:youraccount/your-repo.git</code></pre></div>
+    </div>
+</section>
+
+            
+                <section class="page" id="sidebar-hey-what-about-github">
+    <h1>
+        <a href="#sidebar-hey-what-about-github">Sidebar: Hey, what about GitHub?</a>
+    </h1>
+    <div class="content">
+        <p>Places we visited in this lecture</p>
+
+<ul>
+<li><a href="https://travis-ci.org/">Travis CI</a></li>
+<li><a href="https://about.gitlab.com/">DevOps Lifecycle</a></li>
+<li><a href="https://github.com/pricing">GitHub Pricing</a></li>
+<li><a href="https://about.gitlab.com/pricing/">GitLab Pricing</a></li>
+</ul>
+
     </div>
 </section>
 
@@ -628,9 +648,9 @@ git clone git@gitlab.com:youraccount/your-repo.git</code></pre></div>
 
     
             
-                <section class="page" id="24-create-a-new-hugo-site-with-hugo-new-site">
+                <section class="page" id="create-a-new-hugo-site-with-hugo-new-site">
     <h1>
-        <a href="#24-create-a-new-hugo-site-with-hugo-new-site">24 Create a new Hugo site with &#34;hugo new site&#34;</a>
+        <a href="#create-a-new-hugo-site-with-hugo-new-site">Create a new Hugo site with &#34;hugo new site&#34;</a>
     </h1>
     <div class="content">
         <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo new site sitename</code></pre></div>
@@ -638,9 +658,9 @@ git clone git@gitlab.com:youraccount/your-repo.git</code></pre></div>
 </section>
 
             
-                <section class="page" id="25-baby-steps-save-your-work-with-git-commit">
+                <section class="page" id="baby-steps-save-your-work-with-git-commit">
     <h1>
-        <a href="#25-baby-steps-save-your-work-with-git-commit">25 Baby Steps: Save your work with &#34;git commit&#34;</a>
+        <a href="#baby-steps-save-your-work-with-git-commit">Baby Steps: Save your work with &#34;git commit&#34;</a>
     </h1>
     <div class="content">
         <div class="highlight"><pre style="color:#272822;background-color:#fafafa;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">git add .
@@ -650,9 +670,9 @@ git push</code></pre></div>
 </section>
 
             
-                <section class="page" id="26-add-editorconfig-for-consistent-file-formatting">
+                <section class="page" id="add-editorconfig-for-consistent-file-formatting">
     <h1>
-        <a href="#26-add-editorconfig-for-consistent-file-formatting">26 Add .editorconfig for consistent file formatting</a>
+        <a href="#add-editorconfig-for-consistent-file-formatting">Add .editorconfig for consistent file formatting</a>
     </h1>
     <div class="content">
         
@@ -670,9 +690,9 @@ git push</code></pre></div>
 </section>
 
             
-                <section class="page" id="27-gitignore-telling-files-to-talk-to-the-hand">
+                <section class="page" id="gitignore-telling-files-to-talk-to-the-hand">
     <h1>
-        <a href="#27-gitignore-telling-files-to-talk-to-the-hand">27 Gitignore: Telling files to &#34;talk to the hand&#34;</a>
+        <a href="#gitignore-telling-files-to-talk-to-the-hand">Gitignore: Telling files to &#34;talk to the hand&#34;</a>
     </h1>
     <div class="content">
         <p><code>.gitignore</code> file generator: <a href="https://www.gitignore.io/">https://www.gitignore.io/</a></p>
@@ -697,9 +717,32 @@ git push</code></pre></div>
 
     
             
-                <section class="page" id="32-install-your-new-hugo-theme">
+                <section class="page" id="why-do-i-need-a-new-theme">
     <h1>
-        <a href="#32-install-your-new-hugo-theme">32 Install your new Hugo theme</a>
+        <a href="#why-do-i-need-a-new-theme">Why do I need a new theme</a>
+    </h1>
+    <div class="content">
+        
+    </div>
+</section>
+
+            
+                <section class="page" id="choosing-a-hugo-theme">
+    <h1>
+        <a href="#choosing-a-hugo-theme">Choosing a Hugo theme</a>
+    </h1>
+    <div class="content">
+        <p>Hugo &ldquo;theme park&rdquo;: <a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a></p>
+
+<p>Google Lighthouse: <a href="https://developers.google.com/web/tools/lighthouse/">https://developers.google.com/web/tools/lighthouse/</a></p>
+
+    </div>
+</section>
+
+            
+                <section class="page" id="install-your-new-hugo-theme">
+    <h1>
+        <a href="#install-your-new-hugo-theme">Install your new Hugo theme</a>
     </h1>
     <div class="content">
         
@@ -732,9 +775,9 @@ git push</code></pre></div>
 </section>
 
             
-                <section class="page" id="33-configure-the-theme-using-the-config-toml-file">
+                <section class="page" id="configure-the-theme-using-the-config-toml-file">
     <h1>
-        <a href="#33-configure-the-theme-using-the-config-toml-file">33 Configure the theme using the `config.toml` File</a>
+        <a href="#configure-the-theme-using-the-config-toml-file">Configure the theme using the `config.toml` File</a>
     </h1>
     <div class="content">
         <p>Running hugo server: <code>hugo server</code></p>
@@ -749,35 +792,12 @@ git push</code></pre></div>
 </section>
 
             
-                <section class="page" id="34-discovering-front-matter">
+                <section class="page" id="discovering-front-matter">
     <h1>
-        <a href="#34-discovering-front-matter">34 Discovering Front Matter</a>
+        <a href="#discovering-front-matter">Discovering Front Matter</a>
     </h1>
     <div class="content">
         
-    </div>
-</section>
-
-            
-                <section class="page" id="30-why-do-i-need-a-new-theme">
-    <h1>
-        <a href="#30-why-do-i-need-a-new-theme">30 Why do I need a new theme</a>
-    </h1>
-    <div class="content">
-        
-    </div>
-</section>
-
-            
-                <section class="page" id="31-choosing-a-hugo-theme">
-    <h1>
-        <a href="#31-choosing-a-hugo-theme">31 Choosing a Hugo theme</a>
-    </h1>
-    <div class="content">
-        <p>Hugo &ldquo;theme park&rdquo;: <a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a></p>
-
-<p>Google Lighthouse: <a href="https://developers.google.com/web/tools/lighthouse/">https://developers.google.com/web/tools/lighthouse/</a></p>
-
     </div>
 </section>
 
@@ -798,43 +818,9 @@ git push</code></pre></div>
 
     
             
-                <section class="page" id="40-add-a-picture-with-figure">
+                <section class="page" id="meet-markdown-the-easiest-way-to-format-text">
     <h1>
-        <a href="#40-add-a-picture-with-figure">40 Add a picture with {{ figure }}</a>
-    </h1>
-    <div class="content">
-        <p>The figure shortcode: <a href="https://gohugo.io/content-management/shortcodes/#figure">https://gohugo.io/content-management/shortcodes/#figure</a></p>
-
-    </div>
-</section>
-
-            
-                <section class="page" id="41-unleash-your-draft-post">
-    <h1>
-        <a href="#41-unleash-your-draft-post">41 Unleash your draft post</a>
-    </h1>
-    <div class="content">
-        
-    </div>
-</section>
-
-            
-                <section class="page" id="42-alternative-create-a-new-post-as-a-page-bundle">
-    <h1>
-        <a href="#42-alternative-create-a-new-post-as-a-page-bundle">42 Alternative: Create a new post as a page bundle</a>
-    </h1>
-    <div class="content">
-        <p>Create a post as a page bundle: <code>hugo new post/some-post/index.md</code></p>
-
-<p>More information: <a href="https://gohugo.io/content-management/page-bundles/">https://gohugo.io/content-management/page-bundles/</a></p>
-
-    </div>
-</section>
-
-            
-                <section class="page" id="37-meet-markdown-the-easiest-way-to-format-text">
-    <h1>
-        <a href="#37-meet-markdown-the-easiest-way-to-format-text">37 Meet markdown - the easiest way to format text</a>
+        <a href="#meet-markdown-the-easiest-way-to-format-text">Meet markdown - the easiest way to format text</a>
     </h1>
     <div class="content">
         <p>Essential markdown cheatsheet: <a href="https://www.tygertec.com/markdown-cheatsheet/">https://www.tygertec.com/markdown-cheatsheet/</a></p>
@@ -843,9 +829,9 @@ git push</code></pre></div>
 </section>
 
             
-                <section class="page" id="38-create-a-new-post-with-hugo">
+                <section class="page" id="create-a-new-post-with-hugo">
     <h1>
-        <a href="#38-create-a-new-post-with-hugo">38 Create a new post with Hugo</a>
+        <a href="#create-a-new-post-with-hugo">Create a new post with Hugo</a>
     </h1>
     <div class="content">
         <p><code>hugo new post/some-post.md</code></p>
@@ -854,14 +840,48 @@ git push</code></pre></div>
 </section>
 
             
-                <section class="page" id="39-live-site-preview-with-the-hugo-server">
+                <section class="page" id="live-site-preview-with-the-hugo-server">
     <h1>
-        <a href="#39-live-site-preview-with-the-hugo-server">39 Live site preview with the Hugo server</a>
+        <a href="#live-site-preview-with-the-hugo-server">Live site preview with the Hugo server</a>
     </h1>
     <div class="content">
         <p><code>hugo server</code></p>
 
 <p>Include draft posts: <code>hugo server -D</code></p>
+
+    </div>
+</section>
+
+            
+                <section class="page" id="add-a-picture-with-figure">
+    <h1>
+        <a href="#add-a-picture-with-figure">Add a picture with {{ figure }}</a>
+    </h1>
+    <div class="content">
+        <p>The figure shortcode: <a href="https://gohugo.io/content-management/shortcodes/#figure">https://gohugo.io/content-management/shortcodes/#figure</a></p>
+
+    </div>
+</section>
+
+            
+                <section class="page" id="unleash-your-draft-post">
+    <h1>
+        <a href="#unleash-your-draft-post">Unleash your draft post</a>
+    </h1>
+    <div class="content">
+        
+    </div>
+</section>
+
+            
+                <section class="page" id="alternative-create-a-new-post-as-a-page-bundle">
+    <h1>
+        <a href="#alternative-create-a-new-post-as-a-page-bundle">Alternative: Create a new post as a page bundle</a>
+    </h1>
+    <div class="content">
+        <p>Create a post as a page bundle: <code>hugo new post/some-post/index.md</code></p>
+
+<p>More information: <a href="https://gohugo.io/content-management/page-bundles/">https://gohugo.io/content-management/page-bundles/</a></p>
 
     </div>
 </section>
@@ -883,9 +903,9 @@ git push</code></pre></div>
 
     
             
-                <section class="page" id="48-alternative-migrate-post-images-as-a-page-bundle">
+                <section class="page" id="migrate-a-single-post">
     <h1>
-        <a href="#48-alternative-migrate-post-images-as-a-page-bundle">48 Alternative Migrate Post Images as a Page Bundle</a>
+        <a href="#migrate-a-single-post">Migrate a Single Post</a>
     </h1>
     <div class="content">
         
@@ -893,9 +913,39 @@ git push</code></pre></div>
 </section>
 
             
-                <section class="page" id="49-clean-up-your-markdown">
+                <section class="page" id="preserve-your-post-metadata">
     <h1>
-        <a href="#49-clean-up-your-markdown">49 Clean Up Your Markdown</a>
+        <a href="#preserve-your-post-metadata">Preserve Your Post Metadata</a>
+    </h1>
+    <div class="content">
+        
+    </div>
+</section>
+
+            
+                <section class="page" id="migrate-post-images">
+    <h1>
+        <a href="#migrate-post-images">Migrate Post Images</a>
+    </h1>
+    <div class="content">
+        
+    </div>
+</section>
+
+            
+                <section class="page" id="alternative-migrate-post-images-as-a-page-bundle">
+    <h1>
+        <a href="#alternative-migrate-post-images-as-a-page-bundle">Alternative Migrate Post Images as a Page Bundle</a>
+    </h1>
+    <div class="content">
+        
+    </div>
+</section>
+
+            
+                <section class="page" id="clean-up-your-markdown">
+    <h1>
+        <a href="#clean-up-your-markdown">Clean Up Your Markdown</a>
     </h1>
     <div class="content">
         <p>Figure shortcode again: <a href="https://gohugo.io/content-management/shortcodes/#figure">https://gohugo.io/content-management/shortcodes/#figure</a></p>
@@ -904,43 +954,13 @@ git push</code></pre></div>
 </section>
 
             
-                <section class="page" id="50-migrate-the-about-page">
+                <section class="page" id="migrate-the-about-page">
     <h1>
-        <a href="#50-migrate-the-about-page">50 Migrate the About Page</a>
+        <a href="#migrate-the-about-page">Migrate the About Page</a>
     </h1>
     <div class="content">
         <p><code>hugo new about/index.md</code></p>
 
-    </div>
-</section>
-
-            
-                <section class="page" id="45-migrate-a-single-post">
-    <h1>
-        <a href="#45-migrate-a-single-post">45 Migrate a Single Post</a>
-    </h1>
-    <div class="content">
-        
-    </div>
-</section>
-
-            
-                <section class="page" id="46-preserve-your-post-metadata">
-    <h1>
-        <a href="#46-preserve-your-post-metadata">46 Preserve Your Post Metadata</a>
-    </h1>
-    <div class="content">
-        
-    </div>
-</section>
-
-            
-                <section class="page" id="47-migrate-post-images">
-    <h1>
-        <a href="#47-migrate-post-images">47 Migrate Post Images</a>
-    </h1>
-    <div class="content">
-        
     </div>
 </section>
 
@@ -961,9 +981,39 @@ git push</code></pre></div>
 
     
             
-                <section class="page" id="56-my-site-has-no-style-troubleshoot-locally-with-http-server">
+                <section class="page" id="config-cicd-gitlab-ciyml-file">
     <h1>
-        <a href="#56-my-site-has-no-style-troubleshoot-locally-with-http-server">56 My Site Has No Style Troubleshoot Locally With Http Server</a>
+        <a href="#config-cicd-gitlab-ciyml-file">Configure CI/CD with a .gitlab-ci.yml file</a>
+    </h1>
+    <div class="content">
+        
+    </div>
+</section>
+
+            
+                <section class="page" id="watch-your-site-build-in-the-ci-pipeline">
+    <h1>
+        <a href="#watch-your-site-build-in-the-ci-pipeline">Watch Your Site Build in the Ci Pipeline</a>
+    </h1>
+    <div class="content">
+        
+    </div>
+</section>
+
+            
+                <section class="page" id="viewing-your-deployed-site-404-not-found">
+    <h1>
+        <a href="#viewing-your-deployed-site-404-not-found">Viewing Your Deployed Site 404 Not Found</a>
+    </h1>
+    <div class="content">
+        
+    </div>
+</section>
+
+            
+                <section class="page" id="my-site-has-no-style-troubleshoot-locally-with-http-server">
+    <h1>
+        <a href="#my-site-has-no-style-troubleshoot-locally-with-http-server">My Site Has No Style Troubleshoot Locally With Http Server</a>
     </h1>
     <div class="content">
         <p>install http-server: <code>npm install http-server -g</code></p>
@@ -972,43 +1022,13 @@ git push</code></pre></div>
 </section>
 
             
-                <section class="page" id="57-configure-a-custom-domain-name">
+                <section class="page" id="configure-a-custom-domain-name">
     <h1>
-        <a href="#57-configure-a-custom-domain-name">57 Configure a Custom Domain Name</a>
+        <a href="#configure-a-custom-domain-name">Configure a Custom Domain Name</a>
     </h1>
     <div class="content">
         <p>Google domains: <a href="https://domains.google">https://domains.google</a></p>
 
-    </div>
-</section>
-
-            
-                <section class="page" id="54-watch-your-site-build-in-the-ci-pipeline">
-    <h1>
-        <a href="#54-watch-your-site-build-in-the-ci-pipeline">54 Watch Your Site Build in the Ci Pipeline</a>
-    </h1>
-    <div class="content">
-        
-    </div>
-</section>
-
-            
-                <section class="page" id="55-viewing-your-deployed-site-404-not-found">
-    <h1>
-        <a href="#55-viewing-your-deployed-site-404-not-found">55 Viewing Your Deployed Site 404 Not Found</a>
-    </h1>
-    <div class="content">
-        
-    </div>
-</section>
-
-            
-                <section class="page" id="cd-with-a-gitlab-ciyml-file">
-    <h1>
-        <a href="#cd-with-a-gitlab-ciyml-file">Cd With a Gitlab Ciyml File</a>
-    </h1>
-    <div class="content">
-        
     </div>
 </section>
 

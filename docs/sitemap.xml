@@ -7,48 +7,223 @@
   </url>
   
   <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/07-install-chocolatey-package-manager-windows-only/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/02-migrate-a-single-post/</loc>
+    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/02-meet-markdown-the-easiest-way-to-format-text/</loc>
+    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/02-create-a-new-hugo-site-with-hugo-new-site/</loc>
+    <lastmod>2018-09-04T21:11:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/02-why-do-i-need-a-new-theme/</loc>
+    <lastmod>2018-09-04T21:11:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/02-meet-gitlab/</loc>
+    <lastmod>2018-09-04T21:11:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/02-hugo-the-origin-story/</loc>
+    <lastmod>2018-09-04T21:11:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/02-install-chocolatey-package-manager-windows-only/</loc>
     <lastmod>2018-09-04T21:11:40-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-hugo/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/03-configure-cicd-with-a-gitlab-ciyml-file/</loc>
+    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/03-preserve-your-post-metadata/</loc>
+    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/03-create-a-new-post-with-hugo/</loc>
+    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/03-baby-steps-save-your-work-with-git-commit/</loc>
+    <lastmod>2018-09-04T21:11:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/03-choosing-a-hugo-theme/</loc>
+    <lastmod>2018-09-04T21:11:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/03-create-a-gitlab-account/</loc>
+    <lastmod>2018-09-04T21:11:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/03-install-hugo/</loc>
     <lastmod>2018-09-04T21:11:46-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-visual-studio-code-and-extensions/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/03-is-hugo-the-best-fit-for-your-site/</loc>
+    <lastmod>2018-09-04T21:11:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/04-watch-your-site-build-in-the-ci-pipeline/</loc>
+    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/04-migrate-post-images/</loc>
+    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/04-install-your-new-hugo-theme/</loc>
+    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/04-live-site-preview-with-the-hugo-server/</loc>
+    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/04-add-editorconfig-for-consistent-file-formatting/</loc>
+    <lastmod>2018-09-04T21:11:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/04-create-a-new-private-repo-on-gitlab/</loc>
+    <lastmod>2018-09-04T21:11:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/04-install-visual-studio-code-and-extensions/</loc>
     <lastmod>2018-09-04T21:11:46-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/10-installing-git/</loc>
+    <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/04-course-prerequisites/</loc>
+    <lastmod>2018-09-04T21:11:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/05-alternative-migrate-post-images-as-a-page-bundle/</loc>
+    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/05-viewing-your-deployed-site-404-not-found/</loc>
+    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/05-add-a-picture-with-figure/</loc>
+    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/05-configure-the-theme-using-the-configtoml-file/</loc>
+    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/05-gitignore-telling-files-to-talk-to-the-hand/</loc>
+    <lastmod>2018-09-04T21:11:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/05-setup-your-ssh-keys/</loc>
+    <lastmod>2018-09-04T21:11:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/05-installing-git/</loc>
+    <lastmod>2018-09-04T21:11:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/06-my-site-has-no-style-troubleshoot-locally-with-http-server/</loc>
+    <lastmod>2018-09-04T21:11:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/06-clean-up-your-markdown/</loc>
+    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/06-unleash-your-draft-post/</loc>
+    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/06-discovering-front-matter/</loc>
+    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/06-clone-the-repo-on-your-machine/</loc>
+    <lastmod>2018-09-04T21:11:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/06-learning-git/</loc>
+    <lastmod>2018-09-04T21:11:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/07-sidebar-hey-what-about-github/</loc>
+    <lastmod>2018-12-15T12:11:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/07-configure-a-custom-domain-name/</loc>
+    <lastmod>2018-09-04T21:11:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/07-migrate-the-about-page/</loc>
+    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/07-alternative-create-a-new-post-as-a-page-bundle/</loc>
+    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/07-install-posh-git-windows-optional/</loc>
+    <lastmod>2018-09-04T21:11:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-nodejs/</loc>
+    <lastmod>2018-09-04T21:11:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-7-zip-windows-only/</loc>
     <lastmod>2018-09-04T21:11:46-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/</loc>
     <lastmod>2018-09-04T21:11:45-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/11-learning-git/</loc>
-    <lastmod>2018-09-04T21:11:46-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/12-install-posh-git-windows-optional/</loc>
-    <lastmod>2018-09-04T21:11:46-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/13-install-nodejs/</loc>
-    <lastmod>2018-09-04T21:11:46-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/14-install-7-zip-windows-only/</loc>
-    <lastmod>2018-09-04T21:11:46-04:00</lastmod>
   </url>
   
   <url>
@@ -62,198 +237,28 @@
   </url>
   
   <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/56-my-site-has-no-style-troubleshoot-locally-with-http-server/</loc>
-    <lastmod>2018-09-04T21:11:52-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/57-configure-a-custom-domain-name/</loc>
-    <lastmod>2018-09-04T21:11:52-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/48-alternative-migrate-post-images-as-a-page-bundle/</loc>
-    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/49-clean-up-your-markdown/</loc>
-    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/50-migrate-the-about-page/</loc>
-    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/54-watch-your-site-build-in-the-ci-pipeline/</loc>
-    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/55-viewing-your-deployed-site-404-not-found/</loc>
-    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/53-configure-cicd-with-a-gitlab-ciyml-file/</loc>
-    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/40-add-a-picture-with-figure/</loc>
-    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/41-unleash-your-draft-post/</loc>
-    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/42-alternative-create-a-new-post-as-a-page-bundle/</loc>
-    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/45-migrate-a-single-post/</loc>
-    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/46-preserve-your-post-metadata/</loc>
-    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/47-migrate-post-images/</loc>
-    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/32-install-your-new-hugo-theme/</loc>
-    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/33-configure-the-theme-using-the-configtoml-file/</loc>
-    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/34-discovering-front-matter/</loc>
-    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/37-meet-markdown-the-easiest-way-to-format-text/</loc>
-    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/38-create-a-new-post-with-hugo/</loc>
-    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/39-live-site-preview-with-the-hugo-server/</loc>
-    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/24-create-a-new-hugo-site-with-hugo-new-site/</loc>
-    <lastmod>2018-09-04T21:11:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/25-baby-steps-save-your-work-with-git-commit/</loc>
-    <lastmod>2018-09-04T21:11:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/26-add-editorconfig-for-consistent-file-formatting/</loc>
-    <lastmod>2018-09-04T21:11:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/27-gitignore-telling-files-to-talk-to-the-hand/</loc>
-    <lastmod>2018-09-04T21:11:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/30-why-do-i-need-a-new-theme/</loc>
-    <lastmod>2018-09-04T21:11:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/31-choosing-a-hugo-theme/</loc>
-    <lastmod>2018-09-04T21:11:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/17-meet-gitlab/</loc>
-    <lastmod>2018-09-04T21:11:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/18-create-a-gitlab-account/</loc>
-    <lastmod>2018-09-04T21:11:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/19-create-a-new-private-repo-on-gitlab/</loc>
-    <lastmod>2018-09-04T21:11:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/20-setup-your-ssh-keys/</loc>
-    <lastmod>2018-09-04T21:11:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/21-clone-the-repo-on-your-machine/</loc>
-    <lastmod>2018-09-04T21:11:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/02-hugo-the-origin-story/</loc>
-    <lastmod>2018-09-04T21:11:45-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/03-is-hugo-the-best-fit-for-your-site/</loc>
-    <lastmod>2018-09-04T21:11:45-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/04-course-prerequisites/</loc>
-    <lastmod>2018-09-04T21:11:45-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/</loc>
     <lastmod>2018-09-04T21:11:48-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/</loc>
-    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
+    <lastmod>2018-09-04T21:11:48-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/</loc>
-    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
+    <lastmod>2018-09-04T21:11:49-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/</loc>
-    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
+    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/</loc>
-    <lastmod>2018-09-04T21:11:52-04:00</lastmod>
+    <loc>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/</loc>
+    <lastmod>2018-09-04T21:11:51-04:00</lastmod>
   </url>
   
   <url>
@@ -263,7 +268,7 @@
   
   <url>
     <loc>https://tygerbytes.github.io/wp2hugoref/</loc>
-    <lastmod>2018-09-04T21:11:40-04:00</lastmod>
+    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   

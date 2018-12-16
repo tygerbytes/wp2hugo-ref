@@ -12,49 +12,59 @@
     
     
     <item>
-      <title>17 Meet GitLab</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/17-meet-gitlab/</link>
+      <title>Meet GitLab</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/02-meet-gitlab/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/17-meet-gitlab/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/02-meet-gitlab/</guid>
       <description>GitLab: https://www.gitlab.com</description>
     </item>
     
     <item>
-      <title>18 Create a GitLab account</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/18-create-a-gitlab-account/</link>
+      <title>Create a GitLab account</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/03-create-a-gitlab-account/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/18-create-a-gitlab-account/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/03-create-a-gitlab-account/</guid>
       <description>http://gitlab.com</description>
     </item>
     
     <item>
-      <title>19 Create a new private repo on GitLab</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/19-create-a-new-private-repo-on-gitlab/</link>
+      <title>Create a new private repo on GitLab</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/04-create-a-new-private-repo-on-gitlab/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/19-create-a-new-private-repo-on-gitlab/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/04-create-a-new-private-repo-on-gitlab/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>20 Setup your SSH keys</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/20-setup-your-ssh-keys/</link>
+      <title>Setup your SSH keys</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/05-setup-your-ssh-keys/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/20-setup-your-ssh-keys/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/05-setup-your-ssh-keys/</guid>
       <description>ssh-keygen -t rsa -C &amp;#34;your.email@example.com&amp;#34; -b 4096 cat ~/.ssh/id_rsa.pub | clip More information: https://docs.gitlab.com/ee/ssh/README.html</description>
     </item>
     
     <item>
-      <title>21 Clone the repo on your machine</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/21-clone-the-repo-on-your-machine/</link>
+      <title>Clone the repo on your machine</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/06-clone-the-repo-on-your-machine/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/21-clone-the-repo-on-your-machine/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/06-clone-the-repo-on-your-machine/</guid>
       <description>Commands we used in the lecture:
 mkdir demo cd demo git clone git@gitlab.</description>
+    </item>
+    
+    <item>
+      <title>Sidebar: Hey, what about GitHub?</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/07-sidebar-hey-what-about-github/</link>
+      <pubDate>Sat, 15 Dec 2018 12:11:47 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/07-sidebar-hey-what-about-github/</guid>
+      <description>Places we visited in this lecture
+ Travis CI DevOps Lifecycle GitHub Pricing GitLab Pricing  </description>
     </item>
     
   </channel>

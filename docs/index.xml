@@ -6,17 +6,75 @@
     <description>Recent content on Migrating WordPress to Hugo: Course Reference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Sep 2018 21:11:40 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 04 Sep 2018 21:11:50 -0400</lastBuildDate>
     
 	<atom:link href="https://tygerbytes.github.io/wp2hugoref/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>07 Install Chocolatey package manager (Windows only)</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/07-install-chocolatey-package-manager-windows-only/</link>
+      <title>Migrate a Single Post</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/02-migrate-a-single-post/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/02-migrate-a-single-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meet markdown - the easiest way to format text</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/02-meet-markdown-the-easiest-way-to-format-text/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/02-meet-markdown-the-easiest-way-to-format-text/</guid>
+      <description>Essential markdown cheatsheet: https://www.tygertec.com/markdown-cheatsheet/</description>
+    </item>
+    
+    <item>
+      <title>Create a new Hugo site with &#34;hugo new site&#34;</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/02-create-a-new-hugo-site-with-hugo-new-site/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/02-create-a-new-hugo-site-with-hugo-new-site/</guid>
+      <description>hugo new site sitename</description>
+    </item>
+    
+    <item>
+      <title>Why do I need a new theme</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/02-why-do-i-need-a-new-theme/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/02-why-do-i-need-a-new-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meet GitLab</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/02-meet-gitlab/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/02-meet-gitlab/</guid>
+      <description>GitLab: https://www.gitlab.com</description>
+    </item>
+    
+    <item>
+      <title>Hugo: the origin story</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/01-introduction/02-hugo-the-origin-story/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:45 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/01-introduction/02-hugo-the-origin-story/</guid>
+      <description>Official Hugo site: https://gohugo.io
+Google uses site speed in web search ranking: https://webmasters.googleblog.com/2010/04/using-site-speed-in-web-search-ranking.html
+WP Engine costs: https://wpengine.com/plans/
+Jekyll: https://jekyllrb.com/
+Hexo: https://hexo.io/</description>
+    </item>
+    
+    <item>
+      <title>Install Chocolatey package manager (Windows only)</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/02-install-chocolatey-package-manager-windows-only/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:40 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/07-install-chocolatey-package-manager-windows-only/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/02-install-chocolatey-package-manager-windows-only/</guid>
       <description>Site: https://chocolatey.org/install
 Make sure it works: choco
 *Don&amp;rsquo;t forget to run choco commands as an administrator.
@@ -25,211 +83,104 @@ Attribution:
     </item>
     
     <item>
-      <title>08 Install Hugo</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-hugo/</link>
+      <title>Configure CI/CD with a .gitlab-ci.yml file</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/03-configure-cicd-with-a-gitlab-ciyml-file/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/03-configure-cicd-with-a-gitlab-ciyml-file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserve Your Post Metadata</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/03-preserve-your-post-metadata/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/03-preserve-your-post-metadata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create a new post with Hugo</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/03-create-a-new-post-with-hugo/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/03-create-a-new-post-with-hugo/</guid>
+      <description>hugo new post/some-post.md</description>
+    </item>
+    
+    <item>
+      <title>Baby Steps: Save your work with &#34;git commit&#34;</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/03-baby-steps-save-your-work-with-git-commit/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/03-baby-steps-save-your-work-with-git-commit/</guid>
+      <description>git add . git commit -m &amp;#34;Add a message here&amp;#34; git push</description>
+    </item>
+    
+    <item>
+      <title>Choosing a Hugo theme</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/03-choosing-a-hugo-theme/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/03-choosing-a-hugo-theme/</guid>
+      <description>Hugo &amp;ldquo;theme park&amp;rdquo;: https://themes.gohugo.io/
+Google Lighthouse: https://developers.google.com/web/tools/lighthouse/</description>
+    </item>
+    
+    <item>
+      <title>Create a GitLab account</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/03-create-a-gitlab-account/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/03-create-a-gitlab-account/</guid>
+      <description>http://gitlab.com</description>
+    </item>
+    
+    <item>
+      <title>Install Hugo</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/03-install-hugo/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-hugo/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/03-install-hugo/</guid>
       <description>Windows: choco install hugo macOS: brew install hugo Ubuntu Linux: sudo apt-get install hugo  More complex installs: https://gohugo.io/getting-started/installing</description>
     </item>
     
     <item>
-      <title>09 Install Visual Studio Code and extensions</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-visual-studio-code-and-extensions/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
+      <title>Is Hugo the best fit for your site?</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/01-introduction/03-is-hugo-the-best-fit-for-your-site/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:45 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-visual-studio-code-and-extensions/</guid>
-      <description>https://code.visualstudio.com/
- Windows: choco install visualstudiocode Alternate/Manual: https://code.visualstudio.com/download  Extensions  Code Spell Checker Markdownlint Better TOML  EditorConfig  About EditorConfig EditorConfig extension for VS Code  Recommended .editorconfig for Hugo sites: https://gist.github.com/tygerbytes/2773f928bb5202669e14210d2b79c488</description>
+      <guid>https://tygerbytes.github.io/wp2hugoref/01-introduction/03-is-hugo-the-best-fit-for-your-site/</guid>
+      <description>My Hugo-based blog: https://tygertec.com
+Disqus: https://disqus.com/
+Shopify: https://www.shopify.com/</description>
     </item>
     
     <item>
-      <title>10 Installing Git</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/10-installing-git/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/10-installing-git/</guid>
-      <description> Windows Using Chocolatey: choco install git
-Manual: https://git-scm.com/downloads
-Mac Using Brew: brew install git
-Manual: https://git-scm.com/download/mac
-Linux (Debian-based) sudo apt-get update sudo apt-get upgrade sudo apt-get install git Linux (Red Hat-based) sudo yum upgrade sudo yum install git</description>
-    </item>
-    
-    <item>
-      <title>11 Learning Git</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/11-learning-git/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/11-learning-git/</guid>
-      <description>Basic Git commands:
- git status git add . git commit -m &amp;ldquo;some message&amp;rdquo; git clone git push git pull  Learning more about Git: https://try.github.io/
-Helpful VS Code extension, GitLens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens</description>
-    </item>
-    
-    <item>
-      <title>12 Install posh-git (Windows, Optional)</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/12-install-posh-git-windows-optional/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/12-install-posh-git-windows-optional/</guid>
-      <description>Official site: https://github.com/dahlbyk/posh-git
-Port to Bash: https://github.com/lyze/posh-git-sh
-GitKraken: https://www.gitkraken.com/
-Installing on Windows choco install poshgit</description>
-    </item>
-    
-    <item>
-      <title>13 Install Node.js</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/13-install-nodejs/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/13-install-nodejs/</guid>
-      <description>Windows choco install nodejs choco upgrade nodejs  For a manual install or other platforms, visit: https://nodejs.org/en/download/</description>
-    </item>
-    
-    <item>
-      <title>14 Install 7-Zip (Windows only)</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/14-install-7-zip-windows-only/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/14-install-7-zip-windows-only/</guid>
-      <description>Windows choco install 7zip choco upgrade 7zip For a manual install, go to https://www.7-zip.org/</description>
-    </item>
-    
-    <item>
-      <title>56 My Site Has No Style Troubleshoot Locally With Http Server</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/56-my-site-has-no-style-troubleshoot-locally-with-http-server/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:52 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/56-my-site-has-no-style-troubleshoot-locally-with-http-server/</guid>
-      <description>install http-server: npm install http-server -g</description>
-    </item>
-    
-    <item>
-      <title>57 Configure a Custom Domain Name</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/57-configure-a-custom-domain-name/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:52 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/57-configure-a-custom-domain-name/</guid>
-      <description>Google domains: https://domains.google</description>
-    </item>
-    
-    <item>
-      <title>48 Alternative Migrate Post Images as a Page Bundle</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/48-alternative-migrate-post-images-as-a-page-bundle/</link>
+      <title>Watch Your Site Build in the Ci Pipeline</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/04-watch-your-site-build-in-the-ci-pipeline/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/48-alternative-migrate-post-images-as-a-page-bundle/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/04-watch-your-site-build-in-the-ci-pipeline/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>49 Clean Up Your Markdown</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/49-clean-up-your-markdown/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/49-clean-up-your-markdown/</guid>
-      <description>Figure shortcode again: https://gohugo.io/content-management/shortcodes/#figure</description>
-    </item>
-    
-    <item>
-      <title>50 Migrate the About Page</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/50-migrate-the-about-page/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/50-migrate-the-about-page/</guid>
-      <description>hugo new about/index.md</description>
-    </item>
-    
-    <item>
-      <title>54 Watch Your Site Build in the Ci Pipeline</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/54-watch-your-site-build-in-the-ci-pipeline/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/54-watch-your-site-build-in-the-ci-pipeline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>55 Viewing Your Deployed Site 404 Not Found</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/55-viewing-your-deployed-site-404-not-found/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/55-viewing-your-deployed-site-404-not-found/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cd With a Gitlab Ciyml File</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/53-configure-cicd-with-a-gitlab-ciyml-file/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/53-configure-cicd-with-a-gitlab-ciyml-file/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>40 Add a picture with {{ figure }}</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/40-add-a-picture-with-figure/</link>
+      <title>Migrate Post Images</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/04-migrate-post-images/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/40-add-a-picture-with-figure/</guid>
-      <description>The figure shortcode: https://gohugo.io/content-management/shortcodes/#figure</description>
-    </item>
-    
-    <item>
-      <title>41 Unleash your draft post</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/41-unleash-your-draft-post/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/41-unleash-your-draft-post/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/04-migrate-post-images/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>42 Alternative: Create a new post as a page bundle</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/42-alternative-create-a-new-post-as-a-page-bundle/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/42-alternative-create-a-new-post-as-a-page-bundle/</guid>
-      <description>Create a post as a page bundle: hugo new post/some-post/index.md
-More information: https://gohugo.io/content-management/page-bundles/</description>
-    </item>
-    
-    <item>
-      <title>45 Migrate a Single Post</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/45-migrate-a-single-post/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/45-migrate-a-single-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>46 Preserve Your Post Metadata</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/46-preserve-your-post-metadata/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/46-preserve-your-post-metadata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>47 Migrate Post Images</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/47-migrate-post-images/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/47-migrate-post-images/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>32 Install your new Hugo theme</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/32-install-your-new-hugo-theme/</link>
+      <title>Install your new Hugo theme</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/04-install-your-new-hugo-theme/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/32-install-your-new-hugo-theme/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/04-install-your-new-hugo-theme/</guid>
       <description>Note: If you&amp;rsquo;re following along with the course, clone my fork of the theme to avoid issues.
 It&amp;rsquo;s at https://github.com/tygerbytes/HugoMDL
 The SSH url is: https://github.com/tygerbytes/HugoMDL.git
@@ -243,11 +194,87 @@ cat ./.gitignore</description>
     </item>
     
     <item>
-      <title>33 Configure the theme using the `config.toml` File</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/33-configure-the-theme-using-the-configtoml-file/</link>
+      <title>Live site preview with the Hugo server</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/04-live-site-preview-with-the-hugo-server/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/33-configure-the-theme-using-the-configtoml-file/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/04-live-site-preview-with-the-hugo-server/</guid>
+      <description>hugo server
+Include draft posts: hugo server -D</description>
+    </item>
+    
+    <item>
+      <title>Add .editorconfig for consistent file formatting</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/04-add-editorconfig-for-consistent-file-formatting/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/04-add-editorconfig-for-consistent-file-formatting/</guid>
+      <description> Sample .editorconfig file Yes, this is the same as the one referenced under Tools
+ Full: https://gist.github.com/tygerbytes/2773f928bb5202669e14210d2b79c488 Shortened: https://bit.ly/2Mh1LFy  </description>
+    </item>
+    
+    <item>
+      <title>Create a new private repo on GitLab</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/04-create-a-new-private-repo-on-gitlab/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/04-create-a-new-private-repo-on-gitlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install Visual Studio Code and extensions</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/04-install-visual-studio-code-and-extensions/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/04-install-visual-studio-code-and-extensions/</guid>
+      <description>https://code.visualstudio.com/
+ Windows: choco install visualstudiocode Alternate/Manual: https://code.visualstudio.com/download  Extensions  Code Spell Checker Markdownlint Better TOML  EditorConfig  About EditorConfig EditorConfig extension for VS Code  Recommended .editorconfig for Hugo sites: https://gist.github.com/tygerbytes/2773f928bb5202669e14210d2b79c488</description>
+    </item>
+    
+    <item>
+      <title>Course prerequisites</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/01-introduction/04-course-prerequisites/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:45 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/01-introduction/04-course-prerequisites/</guid>
+      <description>Windows PowerShell basics: https://docs.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/windows-powershell-basics?view=powershell-6
+Mac/Linux Bash scripting basics: https://ryanstutorials.net/bash-scripting-tutorial/</description>
+    </item>
+    
+    <item>
+      <title>Alternative Migrate Post Images as a Page Bundle</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/05-alternative-migrate-post-images-as-a-page-bundle/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/05-alternative-migrate-post-images-as-a-page-bundle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viewing Your Deployed Site 404 Not Found</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/05-viewing-your-deployed-site-404-not-found/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/05-viewing-your-deployed-site-404-not-found/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Add a picture with {{ figure }}</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/05-add-a-picture-with-figure/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/05-add-a-picture-with-figure/</guid>
+      <description>The figure shortcode: https://gohugo.io/content-management/shortcodes/#figure</description>
+    </item>
+    
+    <item>
+      <title>Configure the theme using the `config.toml` File</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/05-configure-the-theme-using-the-configtoml-file/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/05-configure-the-theme-using-the-configtoml-file/</guid>
       <description>Running hugo server: hugo server
 Stopping the running server: Ctrl-C
 Force most web browser&amp;rsquo;s, including Google Chrome and Firefox, to do a hard refresh: Ctrl F5
@@ -255,176 +282,159 @@ A hard refresh means that nothing is loaded from the local cache; a new request 
     </item>
     
     <item>
-      <title>34 Discovering Front Matter</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/34-discovering-front-matter/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/34-discovering-front-matter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>37 Meet markdown - the easiest way to format text</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/37-meet-markdown-the-easiest-way-to-format-text/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/37-meet-markdown-the-easiest-way-to-format-text/</guid>
-      <description>Essential markdown cheatsheet: https://www.tygertec.com/markdown-cheatsheet/</description>
-    </item>
-    
-    <item>
-      <title>38 Create a new post with Hugo</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/38-create-a-new-post-with-hugo/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/38-create-a-new-post-with-hugo/</guid>
-      <description>hugo new post/some-post.md</description>
-    </item>
-    
-    <item>
-      <title>39 Live site preview with the Hugo server</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/39-live-site-preview-with-the-hugo-server/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/39-live-site-preview-with-the-hugo-server/</guid>
-      <description>hugo server
-Include draft posts: hugo server -D</description>
-    </item>
-    
-    <item>
-      <title>24 Create a new Hugo site with &#34;hugo new site&#34;</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/24-create-a-new-hugo-site-with-hugo-new-site/</link>
+      <title>Gitignore: Telling files to &#34;talk to the hand&#34;</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/05-gitignore-telling-files-to-talk-to-the-hand/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/24-create-a-new-hugo-site-with-hugo-new-site/</guid>
-      <description>hugo new site sitename</description>
-    </item>
-    
-    <item>
-      <title>25 Baby Steps: Save your work with &#34;git commit&#34;</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/25-baby-steps-save-your-work-with-git-commit/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/25-baby-steps-save-your-work-with-git-commit/</guid>
-      <description>git add . git commit -m &amp;#34;Add a message here&amp;#34; git push</description>
-    </item>
-    
-    <item>
-      <title>26 Add .editorconfig for consistent file formatting</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/26-add-editorconfig-for-consistent-file-formatting/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/26-add-editorconfig-for-consistent-file-formatting/</guid>
-      <description> Sample .editorconfig file Yes, this is the same as the one referenced under Tools
- Full: https://gist.github.com/tygerbytes/2773f928bb5202669e14210d2b79c488 Shortened: https://bit.ly/2Mh1LFy  </description>
-    </item>
-    
-    <item>
-      <title>27 Gitignore: Telling files to &#34;talk to the hand&#34;</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/27-gitignore-telling-files-to-talk-to-the-hand/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/27-gitignore-telling-files-to-talk-to-the-hand/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/04-build-a-new-hugo-site-to-move-into/05-gitignore-telling-files-to-talk-to-the-hand/</guid>
       <description>.gitignore file generator: https://www.gitignore.io/</description>
     </item>
     
     <item>
-      <title>30 Why do I need a new theme</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/30-why-do-i-need-a-new-theme/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/30-why-do-i-need-a-new-theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>31 Choosing a Hugo theme</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/31-choosing-a-hugo-theme/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:48 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/31-choosing-a-hugo-theme/</guid>
-      <description>Hugo &amp;ldquo;theme park&amp;rdquo;: https://themes.gohugo.io/
-Google Lighthouse: https://developers.google.com/web/tools/lighthouse/</description>
-    </item>
-    
-    <item>
-      <title>17 Meet GitLab</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/17-meet-gitlab/</link>
+      <title>Setup your SSH keys</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/05-setup-your-ssh-keys/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/17-meet-gitlab/</guid>
-      <description>GitLab: https://www.gitlab.com</description>
-    </item>
-    
-    <item>
-      <title>18 Create a GitLab account</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/18-create-a-gitlab-account/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/18-create-a-gitlab-account/</guid>
-      <description>http://gitlab.com</description>
-    </item>
-    
-    <item>
-      <title>19 Create a new private repo on GitLab</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/19-create-a-new-private-repo-on-gitlab/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/19-create-a-new-private-repo-on-gitlab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>20 Setup your SSH keys</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/20-setup-your-ssh-keys/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
-      
-      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/20-setup-your-ssh-keys/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/05-setup-your-ssh-keys/</guid>
       <description>ssh-keygen -t rsa -C &amp;#34;your.email@example.com&amp;#34; -b 4096 cat ~/.ssh/id_rsa.pub | clip More information: https://docs.gitlab.com/ee/ssh/README.html</description>
     </item>
     
     <item>
-      <title>21 Clone the repo on your machine</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/21-clone-the-repo-on-your-machine/</link>
+      <title>Installing Git</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/05-installing-git/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/05-installing-git/</guid>
+      <description> Windows Using Chocolatey: choco install git
+Manual: https://git-scm.com/downloads
+Mac Using Brew: brew install git
+Manual: https://git-scm.com/download/mac
+Linux (Debian-based) sudo apt-get update sudo apt-get upgrade sudo apt-get install git Linux (Red Hat-based) sudo yum upgrade sudo yum install git</description>
+    </item>
+    
+    <item>
+      <title>My Site Has No Style Troubleshoot Locally With Http Server</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/06-my-site-has-no-style-troubleshoot-locally-with-http-server/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:52 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/06-my-site-has-no-style-troubleshoot-locally-with-http-server/</guid>
+      <description>install http-server: npm install http-server -g</description>
+    </item>
+    
+    <item>
+      <title>Clean Up Your Markdown</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/06-clean-up-your-markdown/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/06-clean-up-your-markdown/</guid>
+      <description>Figure shortcode again: https://gohugo.io/content-management/shortcodes/#figure</description>
+    </item>
+    
+    <item>
+      <title>Unleash your draft post</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/06-unleash-your-draft-post/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/06-unleash-your-draft-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Front Matter</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/06-discovering-front-matter/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/05-choose-and-configure-a-theme/06-discovering-front-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clone the repo on your machine</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/06-clone-the-repo-on-your-machine/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:47 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/21-clone-the-repo-on-your-machine/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/06-clone-the-repo-on-your-machine/</guid>
       <description>Commands we used in the lecture:
 mkdir demo cd demo git clone git@gitlab.</description>
     </item>
     
     <item>
-      <title>02 Hugo: the origin story</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/01-introduction/02-hugo-the-origin-story/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:45 -0400</pubDate>
+      <title>Learning Git</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/06-learning-git/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/01-introduction/02-hugo-the-origin-story/</guid>
-      <description>Official Hugo site: https://gohugo.io
-Google uses site speed in web search ranking: https://webmasters.googleblog.com/2010/04/using-site-speed-in-web-search-ranking.html
-WP Engine costs: https://wpengine.com/plans/
-Jekyll: https://jekyllrb.com/
-Hexo: https://hexo.io/</description>
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/06-learning-git/</guid>
+      <description>Basic Git commands:
+ git status git add . git commit -m &amp;ldquo;some message&amp;rdquo; git clone git push git pull  Learning more about Git: https://try.github.io/
+Helpful VS Code extension, GitLens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens</description>
     </item>
     
     <item>
-      <title>03 Is Hugo the best fit for your site?</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/01-introduction/03-is-hugo-the-best-fit-for-your-site/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:45 -0400</pubDate>
+      <title>Sidebar: Hey, what about GitHub?</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/07-sidebar-hey-what-about-github/</link>
+      <pubDate>Sat, 15 Dec 2018 12:11:47 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/01-introduction/03-is-hugo-the-best-fit-for-your-site/</guid>
-      <description>My Hugo-based blog: https://tygertec.com
-Disqus: https://disqus.com/
-Shopify: https://www.shopify.com/</description>
+      <guid>https://tygerbytes.github.io/wp2hugoref/03-groundwork-configure-repository-on-gitlab/07-sidebar-hey-what-about-github/</guid>
+      <description>Places we visited in this lecture
+ Travis CI DevOps Lifecycle GitHub Pricing GitLab Pricing  </description>
     </item>
     
     <item>
-      <title>04 Course prerequisites</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/01-introduction/04-course-prerequisites/</link>
-      <pubDate>Tue, 04 Sep 2018 21:11:45 -0400</pubDate>
+      <title>Configure a Custom Domain Name</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/07-configure-a-custom-domain-name/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:52 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/01-introduction/04-course-prerequisites/</guid>
-      <description>Windows PowerShell basics: https://docs.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/windows-powershell-basics?view=powershell-6
-Mac/Linux Bash scripting basics: https://ryanstutorials.net/bash-scripting-tutorial/</description>
+      <guid>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/07-configure-a-custom-domain-name/</guid>
+      <description>Google domains: https://domains.google</description>
+    </item>
+    
+    <item>
+      <title>Migrate the About Page</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/07-migrate-the-about-page/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/07-migrate-the-about-page/</guid>
+      <description>hugo new about/index.md</description>
+    </item>
+    
+    <item>
+      <title>Alternative: Create a new post as a page bundle</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/07-alternative-create-a-new-post-as-a-page-bundle/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/06-write-a-new-post-with-hugo/07-alternative-create-a-new-post-as-a-page-bundle/</guid>
+      <description>Create a post as a page bundle: hugo new post/some-post/index.md
+More information: https://gohugo.io/content-management/page-bundles/</description>
+    </item>
+    
+    <item>
+      <title>Install posh-git (Windows, Optional)</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/07-install-posh-git-windows-optional/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/07-install-posh-git-windows-optional/</guid>
+      <description>Official site: https://github.com/dahlbyk/posh-git
+Port to Bash: https://github.com/lyze/posh-git-sh
+GitKraken: https://www.gitkraken.com/
+Installing on Windows choco install poshgit</description>
+    </item>
+    
+    <item>
+      <title>Install Node.js</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-nodejs/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-nodejs/</guid>
+      <description>Windows choco install nodejs choco upgrade nodejs  For a manual install or other platforms, visit: https://nodejs.org/en/download/</description>
+    </item>
+    
+    <item>
+      <title>Install 7-Zip (Windows only)</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-7-zip-windows-only/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-7-zip-windows-only/</guid>
+      <description>Windows choco install 7zip choco upgrade 7zip For a manual install, go to https://www.7-zip.org/</description>
     </item>
     
   </channel>

@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>07 Install Chocolatey package manager (Windows only)</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/07-install-chocolatey-package-manager-windows-only/</link>
+      <title>Install Chocolatey package manager (Windows only)</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/02-install-chocolatey-package-manager-windows-only/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:40 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/07-install-chocolatey-package-manager-windows-only/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/02-install-chocolatey-package-manager-windows-only/</guid>
       <description>Site: https://chocolatey.org/install
 Make sure it works: choco
 *Don&amp;rsquo;t forget to run choco commands as an administrator.
@@ -25,30 +25,30 @@ Attribution:
     </item>
     
     <item>
-      <title>08 Install Hugo</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-hugo/</link>
+      <title>Install Hugo</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/03-install-hugo/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-hugo/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/03-install-hugo/</guid>
       <description>Windows: choco install hugo macOS: brew install hugo Ubuntu Linux: sudo apt-get install hugo  More complex installs: https://gohugo.io/getting-started/installing</description>
     </item>
     
     <item>
-      <title>09 Install Visual Studio Code and extensions</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-visual-studio-code-and-extensions/</link>
+      <title>Install Visual Studio Code and extensions</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/04-install-visual-studio-code-and-extensions/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-visual-studio-code-and-extensions/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/04-install-visual-studio-code-and-extensions/</guid>
       <description>https://code.visualstudio.com/
  Windows: choco install visualstudiocode Alternate/Manual: https://code.visualstudio.com/download  Extensions  Code Spell Checker Markdownlint Better TOML  EditorConfig  About EditorConfig EditorConfig extension for VS Code  Recommended .editorconfig for Hugo sites: https://gist.github.com/tygerbytes/2773f928bb5202669e14210d2b79c488</description>
     </item>
     
     <item>
-      <title>10 Installing Git</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/10-installing-git/</link>
+      <title>Installing Git</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/05-installing-git/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/10-installing-git/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/05-installing-git/</guid>
       <description> Windows Using Chocolatey: choco install git
 Manual: https://git-scm.com/downloads
 Mac Using Brew: brew install git
@@ -57,22 +57,22 @@ Linux (Debian-based) sudo apt-get update sudo apt-get upgrade sudo apt-get insta
     </item>
     
     <item>
-      <title>11 Learning Git</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/11-learning-git/</link>
+      <title>Learning Git</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/06-learning-git/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/11-learning-git/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/06-learning-git/</guid>
       <description>Basic Git commands:
  git status git add . git commit -m &amp;ldquo;some message&amp;rdquo; git clone git push git pull  Learning more about Git: https://try.github.io/
 Helpful VS Code extension, GitLens: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens</description>
     </item>
     
     <item>
-      <title>12 Install posh-git (Windows, Optional)</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/12-install-posh-git-windows-optional/</link>
+      <title>Install posh-git (Windows, Optional)</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/07-install-posh-git-windows-optional/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/12-install-posh-git-windows-optional/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/07-install-posh-git-windows-optional/</guid>
       <description>Official site: https://github.com/dahlbyk/posh-git
 Port to Bash: https://github.com/lyze/posh-git-sh
 GitKraken: https://www.gitkraken.com/
@@ -80,20 +80,20 @@ Installing on Windows choco install poshgit</description>
     </item>
     
     <item>
-      <title>13 Install Node.js</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/13-install-nodejs/</link>
+      <title>Install Node.js</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-nodejs/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/13-install-nodejs/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-nodejs/</guid>
       <description>Windows choco install nodejs choco upgrade nodejs  For a manual install or other platforms, visit: https://nodejs.org/en/download/</description>
     </item>
     
     <item>
-      <title>14 Install 7-Zip (Windows only)</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/14-install-7-zip-windows-only/</link>
+      <title>Install 7-Zip (Windows only)</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-7-zip-windows-only/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/14-install-7-zip-windows-only/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-7-zip-windows-only/</guid>
       <description>Windows choco install 7zip choco upgrade 7zip For a manual install, go to https://www.7-zip.org/</description>
     </item>
     

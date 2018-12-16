@@ -1,9 +1,9 @@
 ---
-title: "02 Hugo: the origin story"
+title: "Hugo: the origin story"
 date: 2018-09-04T21:11:45-04:00
 publishdate: 2018-09-04T21:11:45-04:00
-anchor: 02-hugo-the-origin-story
-weight: 40
+anchor: hugo-the-origin-story
+weight: 02
 draft: false
 ---
 
