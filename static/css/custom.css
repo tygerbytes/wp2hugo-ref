@@ -1,3 +1,7 @@
+.sidebar {
+  text-align: left;
+}
+
 .sidebar ul li {
   margin-left: 0;
   padding-left: 0;
