@@ -1,5 +1,5 @@
 ---
-title: "Clean Up Your Markdown"
+title: "Clean up your markdown"
 date: 2018-09-04T21:11:51-04:00
 publishdate: 2018-09-04T21:11:51-04:00
 anchor: clean-up-your-markdown
