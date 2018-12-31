@@ -30,7 +30,7 @@ Silly CSS that we add to `custom.css`:
 
 Update submodules:
 
-`git submodule update`
+`git submodule foreach git pull`
 
 Deleting the `UglyTitles` branch:
 
