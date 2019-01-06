@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/02-meet-netlify/</loc>
+    <lastmod>2018-12-30T21:11:51-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/02-migrate-a-single-post/</loc>
     <lastmod>2018-09-04T21:11:50-04:00</lastmod>
   </url>
@@ -39,6 +44,11 @@
   <url>
     <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/02-install-chocolatey-package-manager-windows-only/</loc>
     <lastmod>2018-09-04T21:11:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/03-note-about-security/</loc>
+    <lastmod>2018-12-30T21:15:50-04:00</lastmod>
   </url>
   
   <url>
@@ -79,6 +89,11 @@
   <url>
     <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/03-is-hugo-the-best-fit-for-your-site/</loc>
     <lastmod>2018-09-04T21:11:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/04-how-much-netlify-cost/</loc>
+    <lastmod>2018-12-30T21:15:50-04:00</lastmod>
   </url>
   
   <url>
@@ -212,8 +227,18 @@
   </url>
   
   <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/08-configure-custom-domain-name/</loc>
+    <lastmod>2018-12-30T21:25:50-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-nodejs/</loc>
     <lastmod>2018-09-04T21:11:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/09-automatic-deploy-previews-merge-requests/</loc>
+    <lastmod>2018-12-30T22:15:50-04:00</lastmod>
   </url>
   
   <url>
@@ -222,8 +247,18 @@
   </url>
   
   <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/10-more-control-netlify-toml/</loc>
+    <lastmod>2018-12-31T05:15:50-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tygerbytes.github.io/wp2hugoref/01-introduction/</loc>
     <lastmod>2018-09-04T21:11:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/11-netlify-toml-branch-specific-deploy-settings/</loc>
+    <lastmod>2018-12-31T05:20:50-04:00</lastmod>
   </url>
   
   <url>
@@ -262,13 +297,18 @@
   </url>
   
   <url>
+    <loc>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/</loc>
+    <lastmod>2018-12-30T21:11:51-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tygerbytes.github.io/wp2hugoref/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tygerbytes.github.io/wp2hugoref/</loc>
-    <lastmod>2018-09-04T21:11:50-04:00</lastmod>
+    <lastmod>2018-12-30T21:11:51-04:00</lastmod>
     <priority>0</priority>
   </url>
   

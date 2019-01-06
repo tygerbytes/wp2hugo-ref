@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Migrate a Single Post</title>
+      <title>Migrate a single post</title>
       <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/02-migrate-a-single-post/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Preserve Your Post Metadata</title>
+      <title>Preserve your post metadata</title>
       <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/03-preserve-your-post-metadata/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Migrate Post Images</title>
+      <title>Migrate post images</title>
       <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/04-migrate-post-images/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
       
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>Alternative Migrate Post Images as a Page Bundle</title>
+      <title>Alternative: Migrate post images as a page bundle</title>
       <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/05-alternative-migrate-post-images-as-a-page-bundle/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       
@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>Clean Up Your Markdown</title>
+      <title>Clean up your markdown</title>
       <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/06-clean-up-your-markdown/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       
@@ -57,7 +57,7 @@
     </item>
     
     <item>
-      <title>Migrate the About Page</title>
+      <title>Migrate the About page</title>
       <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/07-migrate-the-about-page/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       

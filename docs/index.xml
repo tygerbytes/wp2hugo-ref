@@ -6,13 +6,22 @@
     <description>Recent content on Migrating WordPress to Hugo: Course Reference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Sep 2018 21:11:50 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 30 Dec 2018 21:11:51 -0400</lastBuildDate>
     
 	<atom:link href="https://tygerbytes.github.io/wp2hugoref/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Migrate a Single Post</title>
+      <title>Meet Netlify</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/02-meet-netlify/</link>
+      <pubDate>Sun, 30 Dec 2018 21:11:51 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/02-meet-netlify/</guid>
+      <description> What’s a Content delivery network (CDN)? Netlify features GitHub Pages vs Netlify Hosting on Netlify  </description>
+    </item>
+    
+    <item>
+      <title>Migrate a single post</title>
       <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/02-migrate-a-single-post/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
       
@@ -83,6 +92,15 @@ Attribution:
     </item>
     
     <item>
+      <title>A note about security</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/03-note-about-security/</link>
+      <pubDate>Sun, 30 Dec 2018 21:15:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/03-note-about-security/</guid>
+      <description> Add MFA U2F device to GitLab account  </description>
+    </item>
+    
+    <item>
       <title>Configure CI/CD with a .gitlab-ci.yml file</title>
       <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/03-configure-cicd-with-a-gitlab-ciyml-file/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
@@ -92,7 +110,7 @@ Attribution:
     </item>
     
     <item>
-      <title>Preserve Your Post Metadata</title>
+      <title>Preserve your post metadata</title>
       <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/03-preserve-your-post-metadata/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
       
@@ -158,7 +176,18 @@ Shopify: https://www.shopify.com/</description>
     </item>
     
     <item>
-      <title>Watch Your Site Build in the Ci Pipeline</title>
+      <title>How much will Netlify cost?</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/04-how-much-netlify-cost/</link>
+      <pubDate>Sun, 30 Dec 2018 21:15:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/04-how-much-netlify-cost/</guid>
+      <description> Netlify Pricing Netlify add-ons pricing Netlify terms of service
+ WP Engine bandwidth usage
+  </description>
+    </item>
+    
+    <item>
+      <title>Watch your site build in the CI pipeline</title>
       <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/04-watch-your-site-build-in-the-ci-pipeline/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       
@@ -167,7 +196,7 @@ Shopify: https://www.shopify.com/</description>
     </item>
     
     <item>
-      <title>Migrate Post Images</title>
+      <title>Migrate post images</title>
       <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/04-migrate-post-images/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:50 -0400</pubDate>
       
@@ -243,7 +272,7 @@ Mac/Linux Bash scripting basics: https://ryanstutorials.net/bash-scripting-tutor
     </item>
     
     <item>
-      <title>Alternative Migrate Post Images as a Page Bundle</title>
+      <title>Alternative: Migrate post images as a page bundle</title>
       <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/05-alternative-migrate-post-images-as-a-page-bundle/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       
@@ -252,7 +281,7 @@ Mac/Linux Bash scripting basics: https://ryanstutorials.net/bash-scripting-tutor
     </item>
     
     <item>
-      <title>Viewing Your Deployed Site 404 Not Found</title>
+      <title>Viewing your deployed site (404 Not Found)</title>
       <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/05-viewing-your-deployed-site-404-not-found/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       
@@ -313,7 +342,7 @@ Linux (Debian-based) sudo apt-get update sudo apt-get upgrade sudo apt-get insta
     </item>
     
     <item>
-      <title>My Site Has No Style Troubleshoot Locally With Http Server</title>
+      <title>My site has no style! Troubleshoot locally with HTTP Server</title>
       <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/06-my-site-has-no-style-troubleshoot-locally-with-http-server/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:52 -0400</pubDate>
       
@@ -322,7 +351,7 @@ Linux (Debian-based) sudo apt-get update sudo apt-get upgrade sudo apt-get insta
     </item>
     
     <item>
-      <title>Clean Up Your Markdown</title>
+      <title>Clean up your markdown</title>
       <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/06-clean-up-your-markdown/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       
@@ -380,7 +409,7 @@ Helpful VS Code extension, GitLens: https://marketplace.visualstudio.com/items?i
     </item>
     
     <item>
-      <title>Configure a Custom Domain Name</title>
+      <title>Configure a custom domain name</title>
       <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/07-configure-a-custom-domain-name/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:52 -0400</pubDate>
       
@@ -389,7 +418,7 @@ Helpful VS Code extension, GitLens: https://marketplace.visualstudio.com/items?i
     </item>
     
     <item>
-      <title>Migrate the About Page</title>
+      <title>Migrate the About page</title>
       <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/07-migrate-the-about-page/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       
@@ -420,6 +449,16 @@ Installing on Windows choco install poshgit</description>
     </item>
     
     <item>
+      <title>Configure a custom domain name</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/08-configure-custom-domain-name/</link>
+      <pubDate>Sun, 30 Dec 2018 21:25:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/08-configure-custom-domain-name/</guid>
+      <description> Netlify Managed DNS: https://www.netlify.com/docs/dns/ Custom domain name on Netlify: https://www.netlify.com/docs/custom-domains/ SSL/DNS troubleshooting: https://www.netlify.com/docs/ssl/#troubleshooting  Attribution:
+ &amp;ldquo;Domain names&amp;rdquo; picture by JanBaby on pixabay  </description>
+    </item>
+    
+    <item>
       <title>Install Node.js</title>
       <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/08-install-nodejs/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
@@ -429,12 +468,47 @@ Installing on Windows choco install poshgit</description>
     </item>
     
     <item>
+      <title>Automatic deploy previews for Merge Requests</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/09-automatic-deploy-previews-merge-requests/</link>
+      <pubDate>Sun, 30 Dec 2018 22:15:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/09-automatic-deploy-previews-merge-requests/</guid>
+      <description>Create a new Git branch:
+git checkout -b UglyTitles
+Silly CSS that we add to custom.css:
+.mdl-card__media h3 { // I set the color to red… color: red; // transform the text to uppercase… text-transform: uppercase; } // And our client wants some goofy emoji after each title. We add .mdl-card__media h3:after { content: &amp;#34;💯🍌&amp;#34; } Update submodules:
+git submodule foreach git pull
+Deleting the UglyTitles branch:
+git checkout master git branch -D UglyTitles</description>
+    </item>
+    
+    <item>
       <title>Install 7-Zip (Windows only)</title>
       <link>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-7-zip-windows-only/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:46 -0400</pubDate>
       
       <guid>https://tygerbytes.github.io/wp2hugoref/02-set-up-your-tools/09-install-7-zip-windows-only/</guid>
       <description>Windows choco install 7zip choco upgrade 7zip For a manual install, go to https://www.7-zip.org/</description>
+    </item>
+    
+    <item>
+      <title>More control: Netlify.toml</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/10-more-control-netlify-toml/</link>
+      <pubDate>Mon, 31 Dec 2018 05:15:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/10-more-control-netlify-toml/</guid>
+      <description> Netlify.toml reference  Reset Git repo to last commit:
+git reset --hard git clean -fxd</description>
+    </item>
+    
+    <item>
+      <title>netlify.toml: Branch-specific deploy settings</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/11-netlify-toml-branch-specific-deploy-settings/</link>
+      <pubDate>Mon, 31 Dec 2018 05:20:50 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/11-netlify-toml-branch-specific-deploy-settings/</guid>
+      <description>Netlify continuous deployment: deploy contexts  Creating the branch and pushing it to GitLab:
+git checkout -b draft-post-preview git push --set-upstream origin draft-post-preview# netlify.toml [build] command = &amp;#34;hugo&amp;#34; publish = &amp;#34;public&amp;#34; # Branch Deploy context: all deploys that are not from a pull/merge request or # from the Production branch will inherit these settings. [context.branch-deploy] command = &amp;#34;hugo -D&amp;#34; # Specific branch context: all deploys from this specific branch will inherit # these settings.</description>
     </item>
     
   </channel>
