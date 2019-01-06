@@ -11,4 +11,7 @@ draft: false
 
 Reset Git repo to last commit:
 
-`git reset --hard`
+```shell
+git reset --hard
+git clean -fxd
+```
