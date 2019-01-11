@@ -15,13 +15,13 @@ Silly CSS that we add to `custom.css`:
 
 ```css
 .mdl-card__media h3 {
-  // I set the color to red…
+  /* I set the color to red… */
   color: red;
-  // transform the text to uppercase…
+  /* transform the text to uppercase… */
   text-transform: uppercase;
 }
 
-// And our client wants some goofy emoji after each title. We add
+/* And our client wants some goofy emoji after each title. We add:*/
 
 .mdl-card__media h3:after {
   content: "💯🍌"

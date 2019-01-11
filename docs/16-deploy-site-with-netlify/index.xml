@@ -59,7 +59,7 @@
       <description>Create a new Git branch:
 git checkout -b UglyTitles
 Silly CSS that we add to custom.css:
-.mdl-card__media h3 { // I set the color to red… color: red; // transform the text to uppercase… text-transform: uppercase; } // And our client wants some goofy emoji after each title. We add .mdl-card__media h3:after { content: &amp;#34;💯🍌&amp;#34; } Update submodules:
+.mdl-card__media h3 { /* I set the color to red… */ color: red; /* transform the text to uppercase… */ text-transform: uppercase; } /* And our client wants some goofy emoji after each title. We add:*/ .mdl-card__media h3:after { content: &amp;#34;💯🍌&amp;#34; } Update submodules:
 git submodule foreach git pull
 Deleting the UglyTitles branch:
 git checkout master git branch -D UglyTitles</description>
