@@ -6,17 +6,17 @@
     <description>Recent content on Migrating WordPress to Hugo: Course Reference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Dec 2018 21:11:51 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2019 04:35:45 -0300</lastBuildDate>
     
 	<atom:link href="https://tygerbytes.github.io/wp2hugoref/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meet Netlify</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/02-meet-netlify/</link>
+      <link>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/02-meet-netlify/</link>
       <pubDate>Sun, 30 Dec 2018 21:11:51 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/02-meet-netlify/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/02-meet-netlify/</guid>
       <description> What’s a Content delivery network (CDN)? Netlify features GitHub Pages vs Netlify Hosting on Netlify  </description>
     </item>
     
@@ -92,20 +92,29 @@ Attribution:
     </item>
     
     <item>
+      <title>Meet Netlify CMS</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/03-meet-netlify-cms/</link>
+      <pubDate>Sat, 20 Jul 2019 05:14:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/03-meet-netlify-cms/</guid>
+      <description> Netlify CMS  </description>
+    </item>
+    
+    <item>
       <title>A note about security</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/03-note-about-security/</link>
+      <link>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/03-note-about-security/</link>
       <pubDate>Sun, 30 Dec 2018 21:15:50 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/03-note-about-security/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/03-note-about-security/</guid>
       <description> Add MFA U2F device to GitLab account  </description>
     </item>
     
     <item>
       <title>Configure CI/CD with a .gitlab-ci.yml file</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/03-configure-cicd-with-a-gitlab-ciyml-file/</link>
+      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/03-configure-cicd-with-a-gitlab-ciyml-file/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/03-configure-cicd-with-a-gitlab-ciyml-file/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/03-configure-cicd-with-a-gitlab-ciyml-file/</guid>
       <description></description>
     </item>
     
@@ -176,11 +185,20 @@ Shopify: https://www.shopify.com/</description>
     </item>
     
     <item>
+      <title>Add Netlify CMS to your site</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/04-add-netlify-cms-to-site/</link>
+      <pubDate>Sat, 20 Jul 2019 05:24:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/04-add-netlify-cms-to-site/</guid>
+      <description> Add Netlify CMS to your site Netlify CMS open source project Sample code changes  </description>
+    </item>
+    
+    <item>
       <title>How much will Netlify cost?</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/04-how-much-netlify-cost/</link>
+      <link>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/04-how-much-netlify-cost/</link>
       <pubDate>Sun, 30 Dec 2018 21:15:50 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/04-how-much-netlify-cost/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/04-how-much-netlify-cost/</guid>
       <description> Netlify Pricing Netlify add-ons pricing Netlify terms of service
  WP Engine bandwidth usage
   </description>
@@ -188,10 +206,10 @@ Shopify: https://www.shopify.com/</description>
     
     <item>
       <title>Watch your site build in the CI pipeline</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/04-watch-your-site-build-in-the-ci-pipeline/</link>
+      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/04-watch-your-site-build-in-the-ci-pipeline/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/04-watch-your-site-build-in-the-ci-pipeline/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/04-watch-your-site-build-in-the-ci-pipeline/</guid>
       <description></description>
     </item>
     
@@ -272,6 +290,15 @@ Mac/Linux Bash scripting basics: https://ryanstutorials.net/bash-scripting-tutor
     </item>
     
     <item>
+      <title>Netlify CMS: Configure collections</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/05-netlify-cms-configure-collections/</link>
+      <pubDate>Sat, 20 Jul 2019 05:35:47 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/05-netlify-cms-configure-collections/</guid>
+      <description> Netlify CMS collections Netlify CMS widgets  </description>
+    </item>
+    
+    <item>
       <title>Alternative: Migrate post images as a page bundle</title>
       <link>https://tygerbytes.github.io/wp2hugoref/07-manually-move-posts-and-pages-from-wordpress-to-hugo/05-alternative-migrate-post-images-as-a-page-bundle/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
@@ -282,10 +309,10 @@ Mac/Linux Bash scripting basics: https://ryanstutorials.net/bash-scripting-tutor
     
     <item>
       <title>Viewing your deployed site (404 Not Found)</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/05-viewing-your-deployed-site-404-not-found/</link>
+      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/05-viewing-your-deployed-site-404-not-found/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/05-viewing-your-deployed-site-404-not-found/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/05-viewing-your-deployed-site-404-not-found/</guid>
       <description></description>
     </item>
     
@@ -343,10 +370,10 @@ Linux (Debian-based) sudo apt-get update sudo apt-get upgrade sudo apt-get insta
     
     <item>
       <title>My site has no style! Troubleshoot locally with HTTP Server</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/06-my-site-has-no-style-troubleshoot-locally-with-http-server/</link>
+      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/06-my-site-has-no-style-troubleshoot-locally-with-http-server/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:52 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/06-my-site-has-no-style-troubleshoot-locally-with-http-server/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/06-my-site-has-no-style-troubleshoot-locally-with-http-server/</guid>
       <description>install http-server: npm install http-server -g</description>
     </item>
     
@@ -410,10 +437,10 @@ Helpful VS Code extension, GitLens: https://marketplace.visualstudio.com/items?i
     
     <item>
       <title>Configure a custom domain name</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/07-configure-a-custom-domain-name/</link>
+      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/07-configure-a-custom-domain-name/</link>
       <pubDate>Tue, 04 Sep 2018 21:11:52 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/15-deploy-site-with-gitlab-pages/07-configure-a-custom-domain-name/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/07-configure-a-custom-domain-name/</guid>
       <description>Google domains: https://domains.google</description>
     </item>
     
@@ -449,11 +476,20 @@ Installing on Windows choco install poshgit</description>
     </item>
     
     <item>
+      <title>Hey, what about Forestry.io?</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/08-hey-what-about-forestry-io/</link>
+      <pubDate>Sun, 21 Jul 2019 04:35:45 -0300</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/08-hey-what-about-forestry-io/</guid>
+      <description> Forestry.io Forestry.io pricing  </description>
+    </item>
+    
+    <item>
       <title>Configure a custom domain name</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/08-configure-custom-domain-name/</link>
+      <link>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/08-configure-custom-domain-name/</link>
       <pubDate>Sun, 30 Dec 2018 21:25:50 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/08-configure-custom-domain-name/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/08-configure-custom-domain-name/</guid>
       <description> Netlify Managed DNS: https://www.netlify.com/docs/dns/ Custom domain name on Netlify: https://www.netlify.com/docs/custom-domains/ SSL/DNS troubleshooting: https://www.netlify.com/docs/ssl/#troubleshooting  Attribution:
  &amp;ldquo;Domain names&amp;rdquo; picture by JanBaby on pixabay  </description>
     </item>
@@ -469,10 +505,10 @@ Installing on Windows choco install poshgit</description>
     
     <item>
       <title>Automatic deploy previews for Merge Requests</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/09-automatic-deploy-previews-merge-requests/</link>
+      <link>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/09-automatic-deploy-previews-merge-requests/</link>
       <pubDate>Sun, 30 Dec 2018 22:15:50 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/09-automatic-deploy-previews-merge-requests/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/09-automatic-deploy-previews-merge-requests/</guid>
       <description>Create a new Git branch:
 git checkout -b UglyTitles
 Silly CSS that we add to custom.css:
@@ -493,20 +529,20 @@ git checkout master git branch -D UglyTitles</description>
     
     <item>
       <title>More control: Netlify.toml</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/10-more-control-netlify-toml/</link>
+      <link>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/10-more-control-netlify-toml/</link>
       <pubDate>Mon, 31 Dec 2018 05:15:50 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/10-more-control-netlify-toml/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/10-more-control-netlify-toml/</guid>
       <description> Netlify.toml reference  Reset Git repo to last commit:
 git reset --hard git clean -fxd</description>
     </item>
     
     <item>
       <title>netlify.toml: Branch-specific deploy settings</title>
-      <link>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/11-netlify-toml-branch-specific-deploy-settings/</link>
+      <link>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/11-netlify-toml-branch-specific-deploy-settings/</link>
       <pubDate>Mon, 31 Dec 2018 05:20:50 -0400</pubDate>
       
-      <guid>https://tygerbytes.github.io/wp2hugoref/16-deploy-site-with-netlify/11-netlify-toml-branch-specific-deploy-settings/</guid>
+      <guid>https://tygerbytes.github.io/wp2hugoref/09-deploy-site-with-netlify/11-netlify-toml-branch-specific-deploy-settings/</guid>
       <description>Netlify continuous deployment: deploy contexts  Creating the branch and pushing it to GitLab:
 git checkout -b draft-post-preview git push --set-upstream origin draft-post-preview# netlify.toml [build] command = &amp;#34;hugo&amp;#34; publish = &amp;#34;public&amp;#34; # Branch Deploy context: all deploys that are not from a pull/merge request or # from the Production branch will inherit these settings. [context.branch-deploy] command = &amp;#34;hugo -D&amp;#34; # Specific branch context: all deploys from this specific branch will inherit # these settings.</description>
     </item>

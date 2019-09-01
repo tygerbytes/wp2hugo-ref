@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Section 8: Deploy Site with GitLab Pages on Migrating WordPress to Hugo: Course Reference</title>
+    <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/</link>
+    <description>Recent content in Section 8: Deploy Site with GitLab Pages on Migrating WordPress to Hugo: Course Reference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Sep 2018 21:11:52 -0400</lastBuildDate>
+    
+	<atom:link href="https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configure CI/CD with a .gitlab-ci.yml file</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/03-configure-cicd-with-a-gitlab-ciyml-file/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/03-configure-cicd-with-a-gitlab-ciyml-file/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watch your site build in the CI pipeline</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/04-watch-your-site-build-in-the-ci-pipeline/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/04-watch-your-site-build-in-the-ci-pipeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viewing your deployed site (404 Not Found)</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/05-viewing-your-deployed-site-404-not-found/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:51 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/05-viewing-your-deployed-site-404-not-found/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My site has no style! Troubleshoot locally with HTTP Server</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/06-my-site-has-no-style-troubleshoot-locally-with-http-server/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:52 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/06-my-site-has-no-style-troubleshoot-locally-with-http-server/</guid>
+      <description>install http-server: npm install http-server -g</description>
+    </item>
+    
+    <item>
+      <title>Configure a custom domain name</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/07-configure-a-custom-domain-name/</link>
+      <pubDate>Tue, 04 Sep 2018 21:11:52 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/08-deploy-site-with-gitlab-pages/07-configure-a-custom-domain-name/</guid>
+      <description>Google domains: https://domains.google</description>
+    </item>
+    
+  </channel>
+</rss>

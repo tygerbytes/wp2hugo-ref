@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Section 10: Edit Content Easier with a CMS on Migrating WordPress to Hugo: Course Reference</title>
+    <link>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/</link>
+    <description>Recent content in Section 10: Edit Content Easier with a CMS on Migrating WordPress to Hugo: Course Reference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jul 2019 04:35:45 -0300</lastBuildDate>
+    
+	<atom:link href="https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meet Netlify CMS</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/03-meet-netlify-cms/</link>
+      <pubDate>Sat, 20 Jul 2019 05:14:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/03-meet-netlify-cms/</guid>
+      <description> Netlify CMS  </description>
+    </item>
+    
+    <item>
+      <title>Add Netlify CMS to your site</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/04-add-netlify-cms-to-site/</link>
+      <pubDate>Sat, 20 Jul 2019 05:24:49 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/04-add-netlify-cms-to-site/</guid>
+      <description> Add Netlify CMS to your site Netlify CMS open source project Sample code changes  </description>
+    </item>
+    
+    <item>
+      <title>Netlify CMS: Configure collections</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/05-netlify-cms-configure-collections/</link>
+      <pubDate>Sat, 20 Jul 2019 05:35:47 -0400</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/05-netlify-cms-configure-collections/</guid>
+      <description> Netlify CMS collections Netlify CMS widgets  </description>
+    </item>
+    
+    <item>
+      <title>Hey, what about Forestry.io?</title>
+      <link>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/08-hey-what-about-forestry-io/</link>
+      <pubDate>Sun, 21 Jul 2019 04:35:45 -0300</pubDate>
+      
+      <guid>https://tygerbytes.github.io/wp2hugoref/10-netlify-cms/08-hey-what-about-forestry-io/</guid>
+      <description> Forestry.io Forestry.io pricing  </description>
+    </item>
+    
+  </channel>
+</rss>
